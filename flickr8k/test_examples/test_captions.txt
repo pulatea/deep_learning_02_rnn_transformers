@@ -1,0 +1,6 @@
+image,caption
+boat.png,A small boat in the ocean .
+bus.png,Bus driving by parked cars .
+child.jpg,Child holding red frisbee outdoors .
+dog.jpg,Dog on a beach by the ocean .
+horse.png,A cowboy riding a horse in the desert .
