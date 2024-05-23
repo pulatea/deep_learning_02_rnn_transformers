@@ -1,0 +1,63 @@
+wandb_version: 1
+
+model:
+  desc: null
+  value:
+    name: model_2
+    parameters:
+      embedding_dim: 128
+      num_layers: 2
+optimizer:
+  desc: null
+  value:
+    lr: 0.0001
+vocabulary:
+  desc: null
+  value:
+    captions_file_path: /Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/vocabulary_captions.txt
+data:
+  desc: null
+  value:
+    train:
+      images_folder_path: /Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/train_images
+      captions_file_path: /Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/train_captions.txt
+      batch_size: 256
+    val:
+      images_folder_path: /Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/val_images
+      captions_file_path: /Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/val_captions.txt
+      batch_size: 256
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.4
+    cli_version: 0.17.0
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1716473396
+    t:
+      1:
+      - 1
+      - 5
+      - 33
+      - 41
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 33
+      - 41
+      - 53
+      - 55
+      3:
+      - 13
+      - 14
+      - 16
+      - 23
+      4: 3.11.4
+      5: 0.17.0
+      8:
+      - 4
+      - 5
+      13: darwin-arm64

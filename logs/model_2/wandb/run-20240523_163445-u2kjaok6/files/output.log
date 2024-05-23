@@ -1,0 +1,25 @@
+
+Epoch 01 | train:   0%|                                                                                                                              | 0/139 [00:00<?, ?batch/s]
+image shape torch.Size([256, 3, 256, 256])
+image shape after unsqueeze torch.Size([256, 3, 256, 256])
+resized image shape  torch.Size([256, 3, 224, 224])
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoded image shape torch.Size([256, 128])
+image shape torch.Size([256, 3, 256, 256])
+image shape after unsqueeze torch.Size([256, 3, 256, 256])
+
+
+Epoch 01 | train:   1%|█▎                                                                                        | 2/139 [00:36<36:43, 16.08s/batch, cross_entropy_loss: 7.9931]
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoded image shape torch.Size([256, 128])
+image shape torch.Size([256, 3, 256, 256])
+image shape after unsqueeze torch.Size([256, 3, 256, 256])
+resized image shape  torch.Size([256, 3, 224, 224])
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoded image shape torch.Size([256, 128])
+image shape torch.Size([256, 3, 256, 256])
+image shape after unsqueeze torch.Size([256, 3, 256, 256])
+
