@@ -1,4 +1,3 @@
-from models.base import BaseModel, BaseImageEncoder, BaseCaptionGenerator
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -23,7 +22,6 @@ class Model(BaseModel):
                                                   embedding_dim=self.embedding_dim,
                                                   hidden_dim=self.embedding_dim,
                                                   num_layers=self.num_layers)
-
 
 class ImageEncoder(BaseImageEncoder):
     def __init__(self, embedding_dim):

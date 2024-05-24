@@ -1,0 +1,42 @@
+{
+    "os": "macOS-13.3-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-05-24T20:11:17.072275",
+    "startedAt": "2024-05-24T20:11:15.881766",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--device-id=0",
+        "--config-file-path=./configs/config_model_4.yaml",
+        "--experiment-name=model_4",
+        "--num-epochs=2"
+    ],
+    "state": "running",
+    "program": "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/pulatea/deep_learning_02_rnn_transformers.git",
+        "commit": "2d610516527d061271371f61cdc89376084764e4"
+    },
+    "email": "tea.pula@students.unibe.ch",
+    "root": "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2",
+    "host": "Teas-MBP",
+    "username": "teapula",
+    "executable": "/Users/teapula/anaconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 344.1972007751465
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M2 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

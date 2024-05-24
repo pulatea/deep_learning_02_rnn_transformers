@@ -5,7 +5,7 @@ model:
     num_layers: 2
 
 optimizer:
-  lr: 1.0e-4
+  lr: 1.0e-3
 
 vocabulary:
   captions_file_path: "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/flickr8k/vocabulary_captions.txt"

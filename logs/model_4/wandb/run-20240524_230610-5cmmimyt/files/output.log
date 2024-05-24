@@ -1,0 +1,17 @@
+
+Epoch 01 | train:   0%|                                | 0/139 [00:00<?, ?batch/s]
+
+Epoch 01 | train:   1%| | 1/139 [00:28<1:05:16, 28.38s/batch, cross_entropy_loss:
+
+Epoch 01 | train:   1%| | 2/139 [00:34<35:23, 15.50s/batch, cross_entropy_loss: 6.
+
+Epoch 01 | train:   2%| | 3/139 [00:41<25:48, 11.39s/batch, cross_entropy_loss: 7.
+
+Epoch 01 | train:   3%| | 4/139 [00:51<24:42, 10.98s/batch, cross_entropy_loss: 6.
+
+Epoch 01 | train:   4%| | 5/139 [00:58<21:24,  9.58s/batch, cross_entropy_loss: 5.
+
+Epoch 01 | train:   4%| | 6/139 [01:05<19:06,  8.62s/batch, cross_entropy_loss: 5.
+
+Epoch 01 | train:   5%| | 7/139 [01:12<17:54,  8.14s/batch, cross_entropy_loss: 5.
+
