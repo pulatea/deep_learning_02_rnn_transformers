@@ -1,4 +1,5 @@
 from models import model_1
+from models import model_2_test
 from models import model_2
 from models import model_3
 from models import model_4

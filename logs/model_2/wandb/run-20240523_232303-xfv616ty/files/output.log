@@ -1,0 +1,28 @@
+
+Epoch 01 | train:   0%|                                                                                                                              | 0/139 [00:00<?, ?batch/s]
+image shape  torch.Size([256, 3, 256, 256])
+
+Epoch 01 | train:   1%|▋                                                                                       | 1/139 [00:31<1:11:26, 31.06s/batch, cross_entropy_loss: 8.0056]
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoding shape  torch.Size([256, 128])
+image shape  torch.Size([256, 3, 256, 256])
+
+Epoch 01 | train:   1%|█▎                                                                                        | 2/139 [00:37<38:08, 16.70s/batch, cross_entropy_loss: 7.9931]
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoding shape  torch.Size([256, 128])
+image shape  torch.Size([256, 3, 256, 256])
+
+Epoch 01 | train:   1%|█▎                                                                                        | 2/139 [00:44<38:08, 16.70s/batch, cross_entropy_loss: 7.9957]
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+
+Epoch 01 | train:   2%|█▉                                                                                        | 3/139 [00:44<27:14, 12.02s/batch, cross_entropy_loss: 7.9957]
+image shape  torch.Size([256, 3, 256, 256])
+
+Epoch 01 | train:   3%|██▌                                                                                       | 4/139 [00:51<23:08, 10.29s/batch, cross_entropy_loss: 7.9892]
+outputs shape  torch.Size([256, 384])
+cls token shape  torch.Size([256, 384])
+encoding shape  torch.Size([256, 128])
+image shape  torch.Size([256, 3, 256, 256])

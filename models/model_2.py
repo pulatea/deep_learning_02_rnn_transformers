@@ -1,15 +1,12 @@
 import torch
 import torch.nn as nn
-from einops import rearrange, pack
-import torchvision.transforms as transforms
 import torch.nn.functional as F
+from einops import rearrange, pack
 
 from models.base import BaseModel, BaseImageEncoder, BaseCaptionGenerator
 
 
 class Model(BaseModel):
-    """Base class for all models."""
-
     def __init__(self, vocabulary, embedding_dim, num_layers):
         super().__init__(vocabulary=vocabulary)
 
@@ -43,38 +40,33 @@ class ImageEncoder(BaseImageEncoder):
         self.freeze()
 
     def freeze(self):
-        """Sets the requires_grad parameter to False for some model parameters."""
-        # freezing the network for simplicity --> no parameter finetuning!
         for param in self.dino.parameters():
             param.requires_grad = False
 
     def forward(self, image):
-        """Forward method.
-
-        :param image: torch.tensor of the shape [batch_size, channels, height, width]
-
-        :return: encoded image (torch.tensor) of the shape [batch_size, *]
-        """
-        # print("image shape", image.shape)
         scale: int = 1
 
         # extracting image features from DINOv2
+        # print("image shape ", image.shape)
         resized_image = F.interpolate(image, size=(scale * 224, scale * 224), mode="bilinear", align_corners=False)
 
-        # print("image shape after unsqueeze", image.shape)
         # print("resized image shape ", resized_image.shape)
 
         outputs = self.dino(resized_image)
 
+        # extracting the <CLS> token representation
+        # TODO try cls_token = outputs [:, 0] - won't work --> can't multiply 1x256 and 384x128
+        # output shape is 256 x 384
+
         # print("outputs shape ", outputs.shape)
 
-        # extracting the <CLS> token representation
         cls_token = outputs[:, :]
-
         # print("cls token shape ", cls_token.shape)
 
         # encoding the extracted <CLS> token to the dimension of the embedding
         encoding = self.fc(cls_token)
+
+        # print("encoding shape ", encoding.shape)
 
         return self.relu(encoding)
 
@@ -111,19 +103,6 @@ class CaptionGenerator(BaseCaptionGenerator):
         return embeddings
 
     def forward(self, encoded_image, caption_indices, hidden_state=None):
-        """Forward method.
-
-        :param encoded_image: torch.tensor of the shape [batch_size, *] or None
-        :param caption_indices: torch.tensor of the shape [batch_size, sequence_length] or None
-        :param args: e.g., hidden state
-
-        :return: output dict at least with 'logits' and 'indices' keys,
-            where: logits is the torch.tensor of the shape [batch_size, vocabulary_size, sequence_length]
-                   indices is the torch.tensor of the shape [batch_size, sequence_length]
-        """
-
-        # print("encoded image shape", encoded_image.shape)
-
         if encoded_image is not None and caption_indices is not None:
             caption_indices = caption_indices[:, 1:]  # the encoded image will be used instead of the <SOS> token
 
@@ -136,15 +115,6 @@ class CaptionGenerator(BaseCaptionGenerator):
         return {'logits': logits, 'indices': logits.argmax(dim=-2), 'hidden_state': hidden_state}
 
     def generate_caption_indices(self, encoded_image, sos_token_index, eos_token_index, max_length):
-        """Generates caption indices like torch.tensor([1, 23, 5, 8, 2]).
-
-        :param encoded_image: torch.tensor of the shape [1, *]
-        :param sos_token_index: index of the "start of sequence" token (int)
-        :param eos_token_index: index of the "end of sequence" token (int)
-        :param max_length: maximum caption length (int)
-
-        :return: caption indices (list of the length <= max_length)
-        """
         caption_indices = []
 
         output = self.forward(encoded_image, caption_indices=None, hidden_state=None)
