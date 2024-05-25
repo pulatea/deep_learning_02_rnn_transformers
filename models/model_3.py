@@ -12,8 +12,6 @@ class Model(BaseModel):
     def __init__(self, vocabulary, embedding_dim, num_layers):
         super().__init__(vocabulary=vocabulary)
 
-        print("number of layers ", num_layers)
-
         self.embedding_dim = embedding_dim
         self.num_layers = num_layers
 
@@ -22,6 +20,7 @@ class Model(BaseModel):
                                                   embedding_dim=self.embedding_dim,
                                                   hidden_dim=self.embedding_dim,
                                                   num_layers=self.num_layers)
+
 
 class ImageEncoder(BaseImageEncoder):
     def __init__(self, embedding_dim):
@@ -33,11 +32,12 @@ class ImageEncoder(BaseImageEncoder):
         # initializing the embedding_dim
         self.embedding_dim = self.dino.embed_dim
 
-        hidden_size = 384
-        # linear layer that maps DINOv2 output to embedding dimension
-        self.fc = nn.Linear(hidden_size, embedding_dim)
-        # activation function f(x) = max(0, x)
-        self.relu = nn.ReLU()
+        self.fc = nn.Sequential(
+            # linear layer that maps DINOv2 output to embedding dimension
+            nn.Linear(self.dino.embed_dim, embedding_dim),
+            # activation function f(x) = max(0, x)
+            nn.ReLU()
+        )
 
         # freeze the DINOv2 backbone
         self.freeze()
@@ -51,17 +51,17 @@ class ImageEncoder(BaseImageEncoder):
 
         # extracting image features from DINOv2
         resized_image = F.interpolate(image, size=(scale * 224, scale * 224), mode="bilinear", align_corners=False)
-        outputs = self.dino(resized_image)
+        outputs = self.dino.get_intermediate_layers(resized_image, n=1, reshape=True, return_class_token=True)[0]
 
         # extracting the <CLS> token representation
         # TODO try cls_token = outputs [:, 0] - won't work --> can't multiply 1x256 and 384x128
         # output shape is 256 x 384
-        cls_token = outputs[:, :]
+        cls_token, patch_tokens = outputs[1], outputs[0]
 
         # encoding the extracted <CLS> token to the dimension of the embedding
         encoding = self.fc(cls_token)
 
-        return self.relu(encoding)
+        return encoding
 
 
 class CaptionGenerator(BaseCaptionGenerator):
@@ -77,9 +77,12 @@ class CaptionGenerator(BaseCaptionGenerator):
                                                                 embedding_dim=self.embedding_dim),
                                              torch.nn.Dropout(0.5))
         # replaced the RNN with the LSTM (Long Short Term Memory) gated recurrency
-        self.rnn = nn.LSTM(input_size=self.embedding_dim, hidden_size=self.hidden_dim,
-                           num_layers=self.num_layers, bias=True,
-                           batch_first=True)
+        self.rnn = nn.LSTM(
+            input_size=self.embedding_dim,
+            hidden_size=self.hidden_dim,
+            num_layers=self.num_layers,
+            bias=True,
+            batch_first=True)
 
         self.to_logits = torch.nn.Linear(in_features=self.hidden_dim, out_features=self.vocabulary_size)
 

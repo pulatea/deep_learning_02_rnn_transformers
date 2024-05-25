@@ -46,29 +46,17 @@ class ImageEncoder(BaseImageEncoder):
     def forward(self, image):
         scale: int = 1
 
-        # extracting image features from DINOv2
-        # print("image shape ", image.shape)
         resized_image = F.interpolate(image, size=(scale * 224, scale * 224), mode="bilinear", align_corners=False)
 
-        # print("resized image shape ", resized_image.shape)
+        intermediate_layers = \
+            self.dino.get_intermediate_layers(resized_image, n=1, reshape=True, return_class_token=True)[0]
 
-        outputs = self.dino(resized_image)
+        cls_token, patch_tokens = intermediate_layers[1], intermediate_layers[0]
 
-        # extracting the <CLS> token representation
-        # TODO try cls_token = outputs [:, 0] - won't work --> can't multiply 1x256 and 384x128
-        # output shape is 256 x 384
-
-        # print("outputs shape ", outputs.shape)
-
-        cls_token = outputs[:, :]
-        # print("cls token shape ", cls_token.shape)
-
-        # encoding the extracted <CLS> token to the dimension of the embedding
+        # print(cls_token.shape)
+        # cls_token = cls_token.view(384,16 * 16)
         encoding = self.fc(cls_token)
-
-        # print("encoding shape ", encoding.shape)
-
-        return self.relu(encoding)
+        return encoding
 
 
 class CaptionGenerator(BaseCaptionGenerator):

@@ -1,0 +1,57 @@
+
+Traceback (most recent call last):
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 82, in <module>
+    main(args=args, config=config)
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 70, in main
+    trainer.train(train_dataloader=train_dataloader,
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 25, in train
+    self.run_epoch(dataloader=train_dataloader, epoch=epoch, phase='train')
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 42, in run_epoch
+    output = self.model(image, caption_indices[:, :-1])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/base.py", line 37, in forward
+    output = self.caption_generator.forward(encoded_image=encoded_image, caption_indices=caption_indices)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/model_5.py", line 114, in forward
+    output = self.transformer_encoder(embeddings)  # [sequence_length, batch_size, embedding_dim]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 391, in forward
+    output = mod(output, src_mask=mask, is_causal=is_causal, src_key_padding_mask=src_key_padding_mask_for_layers)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 714, in forward
+    x = self.norm1(x + self._sa_block(x, src_mask, src_key_padding_mask, is_causal=is_causal))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 722, in _sa_block
+    x = self.self_attn(x, x, x,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/activation.py", line 1241, in forward
+    attn_output, attn_output_weights = F.multi_head_attention_forward(
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/functional.py", line 5316, in multi_head_attention_forward
+    assert embed_dim == embed_dim_to_check, \
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: was expecting embedding dimension of 128, but got 256

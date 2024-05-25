@@ -25,3 +25,10 @@ config: {'model': {'name': 'model_4', 'parameters': {'embedding_dim': 128, 'num_
 2024-05-24 23:06:15,769 INFO    MainThread:41451 [wandb_run.py:_redirect():2294] Wrapping output streams.
 2024-05-24 23:06:15,769 INFO    MainThread:41451 [wandb_run.py:_redirect():2319] Redirects installed.
 2024-05-24 23:06:15,770 INFO    MainThread:41451 [wandb_init.py:init():838] run started, returning control to user process
+2024-05-24 23:46:39,180 INFO    MainThread:41451 [wandb_run.py:_finish():2103] finishing run dio-the-stray/assignment_2/5cmmimyt
+2024-05-24 23:46:39,181 INFO    MainThread:41451 [wandb_run.py:_atexit_cleanup():2343] got exitcode: 0
+2024-05-24 23:46:39,181 INFO    MainThread:41451 [wandb_run.py:_restore():2326] restore
+2024-05-24 23:46:39,182 INFO    MainThread:41451 [wandb_run.py:_restore():2332] restore done
+2024-05-24 23:46:47,260 INFO    MainThread:41451 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2024-05-24 23:46:47,261 INFO    MainThread:41451 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2024-05-24 23:46:47,278 INFO    MainThread:41451 [wandb_run.py:_footer_sync_info():3953] logging synced files

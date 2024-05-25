@@ -82,3 +82,1322 @@
 2024-05-24 23:07:31,972 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
 2024-05-24 23:07:36,944 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
 2024-05-24 23:07:37,354 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:07:41,786 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:07:42,941 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:07:42,974 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:07:44,979 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:07:45,794 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:07:45,795 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:07:48,008 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:07:51,011 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:07:53,030 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:07:57,035 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:07:58,789 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:00,800 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:08:00,800 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:08:04,475 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:05,065 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:10,370 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:11,089 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:11,791 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:08:15,799 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:15,805 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:08:15,805 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:08:19,125 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:21,282 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:25,153 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:26,387 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:30,810 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:08:30,810 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:08:31,988 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:33,185 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:37,005 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:39,212 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:41,798 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:08:42,804 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:45,240 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:45,815 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:08:45,815 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:08:48,030 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:51,273 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:53,279 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:08:53,389 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:59,095 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:08:59,306 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:00,821 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:09:00,821 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:09:04,552 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:05,335 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:09,575 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:11,364 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:11,800 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:09:13,375 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:14,811 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:15,825 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:09:15,826 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:09:19,402 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:20,802 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:25,422 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:26,415 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:30,830 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:09:30,831 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:09:31,447 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:32,045 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:37,927 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:38,474 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:39,479 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:41,806 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:09:43,456 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:44,500 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:45,505 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:45,835 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:09:45,836 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:09:49,072 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:51,535 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:52,536 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:54,377 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:09:58,555 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:09:59,560 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:00,017 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:00,868 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:10:00,869 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:10:05,742 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:06,597 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:10,768 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:11,811 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:10:12,628 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:15,831 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:15,853 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:10:15,853 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:10:18,661 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:20,905 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:26,577 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:26,700 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:30,857 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:10:30,857 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:10:32,148 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:32,728 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:37,164 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:38,755 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:41,817 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:10:42,822 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:44,787 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:45,861 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:10:45,861 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:10:46,794 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:48,048 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:52,818 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:53,807 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:10:58,849 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:10:59,469 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:00,860 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:00,866 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:11:00,866 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:11:04,886 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:06,889 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:10,129 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:11,822 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:11:12,908 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:15,837 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:15,867 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:11:15,867 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:11:18,936 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:20,943 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:21,476 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:26,975 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:27,108 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:30,872 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:11:30,873 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:11:32,777 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:32,996 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:37,799 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:39,023 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:41,036 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:41,828 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:11:42,833 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:45,879 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:11:45,879 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:11:47,059 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:48,098 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:53,088 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:11:53,159 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:11:58,181 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:00,882 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:12:00,883 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:12:01,125 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:04,090 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:07,153 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:09,417 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:11,830 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:12:13,177 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:15,126 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:15,882 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:12:15,883 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:12:19,202 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:20,932 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:21,209 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:26,764 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:27,235 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:30,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:12:30,884 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:12:32,085 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:33,255 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:37,510 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:41,297 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:41,829 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:12:42,834 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:45,887 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:12:45,888 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:12:47,323 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:48,073 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:53,342 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:12:53,352 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:58,373 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:12:59,367 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:00,892 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:13:00,892 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:13:01,378 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:04,105 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:07,404 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:09,510 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:11,834 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:13:13,436 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:15,225 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:15,897 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:13:15,897 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:13:19,461 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:20,757 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:21,467 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:26,594 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:27,550 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:30,900 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:13:30,900 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:13:32,120 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:33,575 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:35,586 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:37,894 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:41,612 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:41,842 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:13:43,851 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:45,905 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:13:45,906 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:13:47,641 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:13:49,436 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:55,156 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:13:55,681 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:00,762 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:00,909 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:14:00,910 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:14:01,717 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:06,103 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:07,745 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:11,714 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:11,840 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:14:15,778 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:15,915 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:14:15,915 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:14:17,307 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:21,800 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:22,981 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:27,831 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:28,770 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:30,915 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:14:30,916 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:14:34,501 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:35,867 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:39,518 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:41,848 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:14:41,889 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:44,866 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:45,920 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:14:45,920 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:14:47,914 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:49,925 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:50,836 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:14:55,950 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:14:56,445 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:00,923 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:15:00,924 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:15:01,980 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:02,358 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:08,008 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:08,031 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:10,019 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:11,854 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:15:13,503 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:15,926 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:15:15,926 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:15:16,042 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:19,316 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:22,066 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:24,387 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:28,097 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:30,092 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:30,107 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:30,930 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:15:30,930 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:15:35,696 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:36,135 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:41,464 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:41,865 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:15:42,166 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:45,936 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:15:45,936 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:15:47,148 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:50,201 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:52,662 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:15:56,251 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:15:58,338 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:00,942 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:16:00,942 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:16:03,602 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:04,314 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:08,607 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:10,366 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:11,871 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:16:13,891 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:15,951 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:16:15,952 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:16:17,430 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:18,440 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:19,345 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:23,491 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:24,387 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:24,501 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:29,548 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:29,940 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:30,548 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:16:30,954 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:16:30,955 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:16:35,198 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:16:35,599 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:01,619 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:05,770 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:18:06,775 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:09,653 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:09,855 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:18:09,856 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:18:12,101 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:15,685 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:18,056 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:21,717 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:23,655 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:24,861 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:18:24,862 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:18:27,738 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:29,354 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:29,743 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:34,862 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:35,767 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:35,774 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:18:39,863 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:18:39,864 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:18:40,294 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:41,793 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:45,469 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:47,817 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:51,231 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:18:54,870 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:18:54,871 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:18:55,835 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:18:57,129 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:01,856 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:02,384 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:05,781 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:19:07,883 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:08,055 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:09,874 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:19:09,875 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:19:13,255 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:13,902 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:18,538 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:21,935 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:24,164 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:24,879 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:19:24,880 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:19:27,960 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:29,749 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:33,983 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:35,334 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:35,787 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:19:39,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:19:39,886 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:19:41,162 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:42,011 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:46,188 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:48,032 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:51,824 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:19:54,051 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:54,890 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:19:54,892 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:19:56,056 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:19:57,259 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:02,079 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:03,126 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:05,793 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:20:08,099 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:08,636 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:09,895 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:20:09,896 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:20:14,119 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:14,293 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:19,319 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:22,154 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:24,900 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:20:24,900 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:24,900 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:20:28,176 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:30,535 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:34,201 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:35,799 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:20:35,799 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:39,905 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:20:39,906 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:20:40,226 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:41,112 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:46,132 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:48,259 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:51,542 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:20:54,285 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:20:54,906 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:20:54,907 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:20:57,100 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:00,313 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:02,318 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:02,916 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:05,805 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:21:08,345 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:08,571 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:09,910 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:21:09,911 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:21:14,158 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:14,369 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:19,183 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:20,395 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:22,401 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:24,735 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:24,918 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:21:24,918 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:21:28,428 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:30,437 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:34,458 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:35,810 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:21:35,811 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:39,919 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:21:39,920 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:21:40,483 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:41,117 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:46,141 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:48,519 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:51,642 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:21:54,550 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:21:54,924 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:21:54,924 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:21:57,121 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:00,574 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:02,893 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:05,815 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:22:08,524 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:08,614 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:09,929 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:22:09,929 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:22:13,978 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:14,639 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:19,004 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:20,667 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:24,687 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:24,933 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:22:24,934 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:22:28,693 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:30,400 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:34,720 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:35,565 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:35,821 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:22:39,939 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:22:39,939 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:22:41,110 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:42,753 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:46,261 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:50,783 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:52,261 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:22:54,943 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:22:54,944 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:22:56,810 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:22:57,281 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:03,215 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:04,836 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:05,827 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:23:08,569 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:09,948 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:23:09,948 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:23:10,858 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:14,224 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:16,891 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:19,304 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:22,913 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:24,766 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:24,953 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:23:24,953 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:23:28,933 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:30,196 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:35,768 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:35,832 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:23:36,967 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:38,978 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:23:39,955 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:23:39,956 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:23:41,332 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:46,352 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:51,365 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:23:54,960 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:23:54,961 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:23:57,212 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:02,236 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:05,839 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:24:07,848 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:09,965 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:24:09,966 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:24:13,153 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:18,162 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:18,461 DEBUG   SenderThread:41836 [sender.py:send():378] send: telemetry
+2024-05-24 23:24:18,799 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-24 23:24:18,800 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: log_artifact
+2024-05-24 23:24:19,154 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/train_0_ef0f4ce4abf122ce9768.table.json
+2024-05-24 23:24:19,155 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media
+2024-05-24 23:24:19,157 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table
+2024-05-24 23:24:19,182 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-24 23:24:19,737 INFO    wandb-upload_0:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/6dyu3msr-media/table/train_0_ef0f4ce4abf122ce9768.table.json
+2024-05-24 23:24:20,209 INFO    wandb-upload_5:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpn215e6g6
+2024-05-24 23:24:20,392 INFO    wandb-upload_4:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp2n0gcef1
+2024-05-24 23:24:20,412 INFO    wandb-upload_3:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp0egfmec4
+2024-05-24 23:24:20,450 INFO    wandb-upload_2:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpi1oosjlg
+2024-05-24 23:24:20,506 INFO    wandb-upload_1:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpekdnnngm
+2024-05-24 23:24:21,162 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:24:21,393 INFO    SenderThread:41836 [sender.py:send_request_log_artifact():1455] logged artifact run-5cmmimyt-train - {'id': 'QXJ0aWZhY3Q6ODQ4OTMzMzA4', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODgxNTU1MA==', 'latestArtifact': None}}
+2024-05-24 23:24:21,394 DEBUG   SenderThread:41836 [sender.py:send():378] send: files
+2024-05-24 23:24:21,394 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file media/table/train_0_ef0f4ce4abf122ce9768.table.json with policy now
+2024-05-24 23:24:22,007 INFO    wandb-upload_0:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/mx2qwu0i-media/table/train_0_ef0f4ce4abf122ce9768.table.json
+2024-05-24 23:24:23,173 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:24:23,404 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:25,021 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:24:25,021 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:24:29,301 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:30,207 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/config.yaml
+2024-05-24 23:24:34,516 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:35,842 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:24:39,859 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:39,982 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:24:39,983 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:24:45,210 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:49,303 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:24:50,433 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:24:54,983 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:24:54,984 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:24:55,328 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:24:56,153 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:01,208 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:01,353 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:05,848 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:25:06,481 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:09,390 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:09,988 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:25:09,988 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:25:12,293 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:15,418 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:17,796 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:21,445 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:23,134 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:24,993 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:25:24,995 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:25:27,470 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:28,406 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:33,494 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:33,794 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:35,855 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:25:39,175 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:39,515 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:39,998 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:25:39,998 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:25:45,157 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:45,545 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:25:50,174 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:25:55,001 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:25:55,003 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:25:55,205 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:00,227 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:05,244 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:05,862 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:26:10,006 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:26:10,006 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:26:11,201 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:16,218 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:21,236 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:23,660 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-24 23:26:23,661 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: log_artifact
+2024-05-24 23:26:23,679 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-24 23:26:23,705 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/val_1_9ab53c0b6310a7d0f17b.table.json
+2024-05-24 23:26:23,706 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table
+2024-05-24 23:26:24,150 INFO    wandb-upload_4:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/ejmmt6rx-media/table/val_1_9ab53c0b6310a7d0f17b.table.json
+2024-05-24 23:26:24,815 INFO    wandb-upload_5:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpuwlp6yq6
+2024-05-24 23:26:25,010 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:26:25,119 INFO    wandb-upload_2:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpkcrgmt57
+2024-05-24 23:26:25,137 INFO    wandb-upload_1:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmppp1orqjy
+2024-05-24 23:26:25,715 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:26:26,533 INFO    SenderThread:41836 [sender.py:send_request_log_artifact():1455] logged artifact run-5cmmimyt-val - {'id': 'QXJ0aWZhY3Q6ODQ4OTM0OTAz', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODgxNjAwMA==', 'latestArtifact': None}}
+2024-05-24 23:26:26,538 DEBUG   SenderThread:41836 [sender.py:send():378] send: files
+2024-05-24 23:26:26,538 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file media/table/val_1_9ab53c0b6310a7d0f17b.table.json with policy now
+2024-05-24 23:26:26,542 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:26:26,544 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:27,062 INFO    wandb-upload_3:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/lue9vy5i-media/table/val_1_9ab53c0b6310a7d0f17b.table.json
+2024-05-24 23:26:27,722 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:26:31,963 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:35,866 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:26:37,877 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:40,016 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:26:40,016 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:26:43,243 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:48,262 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:52,867 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:26:53,618 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:26:55,023 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:26:55,024 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:26:59,038 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:00,897 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:04,162 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:05,872 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:27:06,923 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:09,923 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:10,026 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:27:10,026 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:27:12,943 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:15,407 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:20,976 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:21,130 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:25,031 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:27:25,031 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:27:26,803 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:27,006 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:31,824 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:33,037 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:35,878 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:27:36,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:40,036 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:27:40,037 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:27:41,072 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:42,215 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:47,101 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:47,808 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:53,127 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:27:53,408 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:27:55,041 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:27:55,042 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:27:58,936 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:01,167 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:04,078 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:05,883 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:28:07,199 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:09,904 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:10,046 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:28:10,047 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:28:13,231 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:15,193 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:20,771 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:21,335 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:25,052 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:28:25,053 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:28:26,480 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:27,367 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:31,502 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:33,400 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:35,890 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:28:36,894 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:39,431 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:40,057 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:28:40,057 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:28:41,440 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:42,476 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:47,469 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:48,467 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:53,492 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:54,149 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:28:55,061 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:28:55,062 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:28:59,522 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:28:59,691 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:04,714 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:05,891 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:29:07,566 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:09,900 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:10,065 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:29:10,065 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:29:13,597 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:15,010 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:19,627 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:20,759 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:25,066 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:29:25,066 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:29:26,427 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:27,662 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:31,445 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:33,688 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:35,897 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:29:36,907 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:39,749 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:40,071 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:29:40,071 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:29:42,268 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:47,456 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:47,804 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:53,458 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:53,827 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:29:55,081 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:29:55,082 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:29:59,047 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:29:59,876 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:30:01,897 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:30:04,222 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:30:05,908 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:30:07,953 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:30:09,939 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:30:10,093 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:30:10,094 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:30:14,013 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:30:15,349 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:31:44,240 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:31:46,251 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:31:47,433 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:31:49,144 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:31:49,144 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:31:52,274 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:31:53,312 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:31:58,306 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:31:58,953 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:31:59,960 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:32:04,149 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:32:04,150 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:32:04,394 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:06,346 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:09,411 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:14,436 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:18,404 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:19,156 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:32:19,156 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:32:20,335 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:24,434 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:25,876 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:29,967 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:32:30,972 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:32,472 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:34,159 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:32:34,159 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:32:36,266 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:38,500 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:41,422 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:44,529 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:47,058 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:49,164 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:32:49,164 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:32:52,559 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:52,829 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:57,581 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:32:58,361 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:32:59,970 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:33:03,962 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:04,169 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:33:04,169 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:33:05,607 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:09,391 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:11,638 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:14,766 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:17,672 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:19,172 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:33:19,173 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:33:19,683 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:20,357 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:25,707 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:25,977 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:29,978 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:33:31,733 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:31,840 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:34,176 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:33:34,177 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:33:37,400 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:39,766 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:42,537 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:45,789 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:48,302 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:49,181 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:33:49,182 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:33:51,813 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:53,877 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:57,840 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:59,541 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:33:59,850 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:33:59,982 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:34:04,185 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:34:04,186 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:34:05,518 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:05,875 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:10,537 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:11,906 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:16,180 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:19,190 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:34:19,191 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:34:19,949 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:21,389 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:25,968 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:26,539 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:29,990 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:34:31,991 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:32,475 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:34,191 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:34:34,191 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:34:37,486 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:40,030 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:43,238 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:46,061 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:48,832 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:49,196 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:34:49,196 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:34:52,091 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:54,096 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:34:54,500 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:34:59,994 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:34:59,995 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:00,124 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:04,198 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:35:04,199 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:35:05,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:06,153 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:10,906 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:12,182 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:14,192 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:16,623 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:19,203 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:35:19,204 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:35:20,222 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:21,634 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:26,249 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:26,742 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:29,999 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:35:32,274 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:32,440 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:34,208 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:35:34,209 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:35:37,924 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:40,310 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:43,056 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:46,337 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:48,733 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:49,210 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:35:49,211 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:35:52,363 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:35:54,386 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:35:59,401 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:00,004 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:36:00,402 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:04,215 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:36:04,216 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:36:04,583 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:06,433 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:10,199 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:14,474 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:15,936 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:19,220 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:36:19,221 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:36:20,503 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:21,423 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:26,525 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:27,130 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:30,010 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:36:32,556 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:32,647 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:34,225 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:36:34,225 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:36:38,178 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:40,598 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:43,348 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:46,629 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:49,066 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:49,228 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:36:49,228 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:36:52,657 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:36:54,576 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:36:59,582 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:00,012 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:37:00,701 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:04,234 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:37:04,235 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:37:05,455 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:06,726 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:08,736 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:11,095 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:14,760 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:16,736 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:19,238 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:37:19,239 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:37:20,792 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:22,440 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:26,812 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:28,038 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:30,018 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:37:33,646 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:34,241 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:37:34,241 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:37:34,852 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:39,475 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:40,885 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:44,614 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:48,918 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:49,246 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:37:49,246 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:37:50,449 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:37:54,941 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:37:55,793 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:00,024 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:38:00,970 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:01,029 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:04,252 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:38:04,252 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:38:06,080 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:06,992 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:08,999 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:11,103 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:15,030 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:16,751 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:19,252 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:38:19,253 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:38:21,058 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:22,447 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:27,090 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:27,944 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:30,025 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:38:33,694 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:34,257 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:38:34,258 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:38:35,125 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:39,320 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:41,155 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:44,448 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:47,186 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:38:49,261 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:38:49,264 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:38:49,561 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:54,857 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:38:55,226 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:00,030 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:39:00,031 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:01,271 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:04,264 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:39:04,265 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:39:05,711 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:09,313 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:11,476 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:15,342 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:17,221 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:19,269 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:39:19,270 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:39:21,361 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:22,918 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:28,682 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:29,402 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:30,035 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:39:34,274 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:39:34,274 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:39:34,471 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:35,430 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:39,492 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:41,453 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:44,979 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:49,280 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:39:49,281 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:39:49,489 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:50,519 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:55,521 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:39:56,446 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:39:57,532 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:00,041 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:40:02,045 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:03,558 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:04,284 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:40:04,285 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:40:07,509 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:09,588 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:12,883 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:16,626 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:18,840 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:19,290 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:40:19,290 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:40:22,652 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:24,733 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:30,050 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:40:30,052 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:30,694 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:34,294 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:40:34,295 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:40:35,311 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:36,720 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:40,458 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:45,548 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:49,300 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:40:49,304 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:40:50,674 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:50,806 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:40:55,715 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:40:58,838 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:00,056 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:41:01,061 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:04,305 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:41:04,306 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:41:04,869 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:06,727 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:06,873 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:12,337 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:12,903 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:17,360 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:18,934 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:19,310 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:41:19,311 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:41:22,533 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:26,976 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:28,014 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:30,062 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:41:33,001 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:33,843 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:34,312 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:41:34,312 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:41:39,026 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:39,692 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:44,717 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:47,069 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:49,317 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:41:49,318 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:41:50,679 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:53,100 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:41:55,904 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:41:59,125 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:00,066 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:42:01,072 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:01,131 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:04,322 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:42:04,322 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:42:06,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:07,155 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:11,906 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:13,183 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:17,549 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:19,327 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:42:19,328 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:42:21,226 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:22,553 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:27,257 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:28,001 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:30,072 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:42:33,280 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:33,508 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:34,328 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:42:34,328 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:42:38,745 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:41,318 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:43,960 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:47,345 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:49,326 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:49,333 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:42:49,333 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:42:53,368 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:42:54,911 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:42:59,397 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:00,078 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:43:00,079 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:04,338 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:43:04,338 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:43:05,421 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:05,832 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:10,851 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:13,456 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:16,554 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:19,342 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:43:19,343 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:43:19,478 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:21,577 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:25,509 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:26,786 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:27,516 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:30,079 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:43:32,485 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:33,545 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:34,347 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:43:34,348 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:43:37,604 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:39,570 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:43,085 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:45,598 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:48,530 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:49,352 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:43:49,352 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:43:53,634 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:54,016 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:43:55,642 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:43:59,268 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:00,083 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:44:04,347 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:04,354 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:44:04,355 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:44:09,613 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:14,634 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:19,359 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:44:19,360 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:44:20,633 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:25,652 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:30,085 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:44:31,088 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:34,359 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:44:34,360 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:44:34,823 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-24 23:44:34,824 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: log_artifact
+2024-05-24 23:44:34,844 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-24 23:44:35,817 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:44:35,818 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/train_1_aecf371679460f287761.table.json
+2024-05-24 23:44:35,818 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table
+2024-05-24 23:44:35,895 ERROR   wandb-upload_5:41836 [internal_api.py:upload_file():2738] upload_file exception https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/178815550/848947840/613e1c54b571b999f84d5ce85d8402e8?Expires=1716673475&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=mXIB0ROP92gKoBQM5eHiwnF2PD23VvOyS4r%2B4%2Bcy1JgFtEbtvtkFocMtOQGo2BlR7dw6fvhvvtS08YxtK9bC0m0CpDSbNWMDyJ10zA%2FU22tAJYLO4EQbStzStWjTVCwhKOFuxfnXmakn1NdK8jKv7KDZdhqCaEv%2BLihNI%2B%2Bt36bywxd37d%2Bsm8orePqjcWmqs2SQENIApXm2qgiz0H2F%2BDMiSe32jyLyqfBX7%2B2eCaubQTMTY%2BRL1bF4PRYxrPwvFJd9OnuQHgZ8IL0zNvq1lpxQsxfkqRopAt9JbbMM%2B4pnxTv0IXwx8lgYakYRVl11G5KwZXizUhv%2Bks0jPWJoRg%3D%3D: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-05-24 23:44:35,895 ERROR   wandb-upload_0:41836 [internal_api.py:upload_file():2738] upload_file exception https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/178815550/848947840/b6c82e01cd0ba03f2f078480bb1040c1?Expires=1716673475&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=B1yfweZa6an2PqQK6yC4waN3JQ1WbvlKaJdBFtXqrK7314AHUUz6zzoi0uInO6QchJghZcJRa03tioVmVWBhegMxX5JkQMjJdbLDfNlCdGs3FhA%2BxlxOgIxGMcn%2B2FRpulULmtTujvJNarMapkeEZT%2Fg2kJBrwm8BEbTqMCdQtvu0n32Qviq0aAQ8ktUv9EdQGNSmSXuX165wbxdyg8EQq96O8ExWNccVueqiwbwVVy1gyrUa8HzGvURXS63%2BNzAGXm5N%2BiKypgwa2C7vyRBmUjRhLC3CNGn03dzaZWDo1lOxTl9Xp57QAqktY6aOmlXGFl5DR1su%2B8sSDAS%2FoxAGA%3D%3D: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-05-24 23:44:35,896 ERROR   wandb-upload_4:41836 [internal_api.py:upload_file():2738] upload_file exception https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/178815550/848947840/3f4706e15481b1fb14f59625d1819c6f?Expires=1716673475&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=vgZ%2FB1BiYNMSN98h6Q1rHBf2sBvvK0GIn8YVq0e%2BmzkEzV343lEFqK%2FSMFT7N2geFcyeQb0HE92BdIe3V%2Fvaqaibj6wdvJcyG1wXU7%2F5nSp%2B5IccmOMvBhr6rRrahe4zZTnn20knP4V567Hjja6w99GAnL1OWxTPyNz5AFrJlcILDVOERIoKA5uIok%2F6tvG98Za873a%2BRZ581fsNiA7I16J5fnfiahxpWB8RiuEILTvdy6pjqp%2F%2Bd%2Bp1juJg1%2BqXotIsDwsWVM6xQ0ZHMH%2BAlPhURG3u%2FThMEof3QtnNposVL%2FKtUKxsbdzkFiay0Nyo445bStGbqgggszTxIEupug%3D%3D: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-05-24 23:44:35,896 ERROR   wandb-upload_5:41836 [internal_api.py:upload_file():2740] upload_file request headers: {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-MD5': 'YT4cVLVxuZn4TVzoXYQC6A==', 'Content-Type': 'image/png', 'Content-Length': '109246'}
+2024-05-24 23:44:35,896 ERROR   wandb-upload_0:41836 [internal_api.py:upload_file():2740] upload_file request headers: {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-MD5': 'tsguAc0LoD8vB4SAuxBAwQ==', 'Content-Type': 'application/json', 'Content-Length': '2443'}
+2024-05-24 23:44:35,897 ERROR   wandb-upload_4:41836 [internal_api.py:upload_file():2740] upload_file request headers: {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-MD5': 'P0cG4VSBsfsU9ZYl0YGcbw==', 'Content-Type': 'image/png', 'Content-Length': '101767'}
+2024-05-24 23:44:35,897 ERROR   wandb-upload_5:41836 [internal_api.py:upload_file():2742] upload_file response body: 
+2024-05-24 23:44:35,897 ERROR   wandb-upload_0:41836 [internal_api.py:upload_file():2742] upload_file response body: 
+2024-05-24 23:44:35,897 ERROR   wandb-upload_4:41836 [internal_api.py:upload_file():2742] upload_file response body: 
+2024-05-24 23:44:36,486 INFO    wandb-upload_3:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/ysnuml0v-media/table/train_1_aecf371679460f287761.table.json
+2024-05-24 23:44:36,510 INFO    wandb-upload_2:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp7v5b84ef
+2024-05-24 23:44:36,521 INFO    wandb-upload_1:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpviu8okoj
+2024-05-24 23:44:37,228 INFO    wandb-upload_0:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpx60qgdah
+2024-05-24 23:44:37,348 INFO    wandb-upload_5:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmppqmg9r51
+2024-05-24 23:44:37,475 INFO    wandb-upload_4:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp6d1wee_l
+2024-05-24 23:44:38,432 INFO    SenderThread:41836 [sender.py:send_request_log_artifact():1455] logged artifact run-5cmmimyt-train - {'id': 'QXJ0aWZhY3Q6ODQ4OTQ3ODQw', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODgxNTU1MA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODQ4OTMzMzA4', 'versionIndex': 0}}}
+2024-05-24 23:44:38,432 DEBUG   SenderThread:41836 [sender.py:send():378] send: files
+2024-05-24 23:44:38,433 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file media/table/train_1_aecf371679460f287761.table.json with policy now
+2024-05-24 23:44:38,433 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:38,434 DEBUG   SenderThread:41836 [sender.py:send():378] send: history
+2024-05-24 23:44:38,434 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: summary_record
+2024-05-24 23:44:38,434 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-24 23:44:38,833 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/wandb-summary.json
+2024-05-24 23:44:39,047 INFO    wandb-upload_3:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/qwyh7jb1-media/table/train_1_aecf371679460f287761.table.json
+2024-05-24 23:44:39,835 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:44:43,457 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:48,480 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:49,364 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:44:49,364 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:44:53,600 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:44:58,623 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:00,089 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:45:03,891 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:04,364 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:45:04,365 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:45:05,966 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:09,169 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:11,988 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:14,227 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:18,014 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:19,363 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:19,369 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:45:19,369 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:45:24,039 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:24,949 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:30,069 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:30,094 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:45:30,095 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:34,374 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:45:34,375 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:45:35,757 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:36,093 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:40,774 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:42,119 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:45,884 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:48,189 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:49,379 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:45:49,380 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:45:51,751 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:45:56,224 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:45:57,483 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:00,096 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:46:00,243 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:46:03,110 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:04,384 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:46:04,384 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:46:08,659 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:13,682 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:18,698 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:19,384 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:46:19,385 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:46:24,601 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:29,618 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:30,102 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:46:34,387 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-24 23:46:34,387 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: stop_status
+2024-05-24 23:46:35,589 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:38,930 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-24 23:46:38,930 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: log_artifact
+2024-05-24 23:46:38,945 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-24 23:46:39,406 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/val_2_aa268cf85be20bd7f3ea.table.json
+2024-05-24 23:46:39,408 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table
+2024-05-24 23:46:39,996 INFO    wandb-upload_5:41836 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpm5m7dwce
+2024-05-24 23:46:39,996 INFO    wandb-upload_4:41836 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpruh_mitb
+2024-05-24 23:46:40,052 INFO    wandb-upload_1:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/cxq8jlb1-media/table/val_2_aa268cf85be20bd7f3ea.table.json
+2024-05-24 23:46:40,187 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:40,237 INFO    wandb-upload_2:41836 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpx9lft5ye
+2024-05-24 23:46:40,409 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:46:41,003 INFO    SenderThread:41836 [sender.py:send_request_log_artifact():1455] logged artifact run-5cmmimyt-val - {'id': 'QXJ0aWZhY3Q6ODQ4OTQ5MjY5', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODgxNjAwMA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODQ4OTM0OTAz', 'versionIndex': 0}}}
+2024-05-24 23:46:41,004 DEBUG   SenderThread:41836 [sender.py:send():378] send: files
+2024-05-24 23:46:41,004 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:41,005 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file media/table/val_2_aa268cf85be20bd7f3ea.table.json with policy now
+2024-05-24 23:46:41,007 DEBUG   SenderThread:41836 [sender.py:send():378] send: telemetry
+2024-05-24 23:46:41,008 DEBUG   SenderThread:41836 [sender.py:send():378] send: exit
+2024-05-24 23:46:41,009 INFO    SenderThread:41836 [sender.py:send_exit():585] handling exit code: 0
+2024-05-24 23:46:41,016 INFO    SenderThread:41836 [sender.py:send_exit():587] handling runtime: 2427
+2024-05-24 23:46:41,017 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-24 23:46:41,018 INFO    SenderThread:41836 [sender.py:send_exit():593] send defer
+2024-05-24 23:46:41,018 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:41,018 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,020 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 0
+2024-05-24 23:46:41,021 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,021 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-05-24 23:46:41,021 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 1
+2024-05-24 23:46:41,023 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,023 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 1
+2024-05-24 23:46:41,023 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,023 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-05-24 23:46:41,023 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 2
+2024-05-24 23:46:41,023 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,023 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 2
+2024-05-24 23:46:41,023 INFO    HandlerThread:41836 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-24 23:46:41,024 DEBUG   SystemMonitor:41836 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-24 23:46:41,025 DEBUG   SystemMonitor:41836 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-24 23:46:41,025 INFO    HandlerThread:41836 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-24 23:46:41,026 INFO    HandlerThread:41836 [interfaces.py:finish():200] Joined disk monitor
+2024-05-24 23:46:41,027 INFO    HandlerThread:41836 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-24 23:46:41,027 INFO    HandlerThread:41836 [interfaces.py:finish():200] Joined memory monitor
+2024-05-24 23:46:41,027 INFO    HandlerThread:41836 [interfaces.py:finish():200] Joined network monitor
+2024-05-24 23:46:41,028 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,028 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-05-24 23:46:41,028 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 3
+2024-05-24 23:46:41,028 DEBUG   SenderThread:41836 [sender.py:send():378] send: stats
+2024-05-24 23:46:41,028 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,028 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 3
+2024-05-24 23:46:41,029 DEBUG   SenderThread:41836 [sender.py:send():378] send: history
+2024-05-24 23:46:41,029 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: summary_record
+2024-05-24 23:46:41,030 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-24 23:46:41,030 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,030 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-05-24 23:46:41,030 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 4
+2024-05-24 23:46:41,030 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,030 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 4
+2024-05-24 23:46:41,030 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,030 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-05-24 23:46:41,030 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 5
+2024-05-24 23:46:41,030 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,030 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 5
+2024-05-24 23:46:41,031 DEBUG   SenderThread:41836 [sender.py:send():378] send: summary
+2024-05-24 23:46:41,031 INFO    SenderThread:41836 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-24 23:46:41,031 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,031 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-05-24 23:46:41,031 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 6
+2024-05-24 23:46:41,031 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,031 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 6
+2024-05-24 23:46:41,031 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,032 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-05-24 23:46:41,035 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:41,193 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:41,203 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 7
+2024-05-24 23:46:41,203 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:41,203 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:41,204 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 7
+2024-05-24 23:46:41,204 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:41,204 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-05-24 23:46:41,412 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/config.yaml
+2024-05-24 23:46:41,412 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/wandb-summary.json
+2024-05-24 23:46:41,517 INFO    wandb-upload_0:41836 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpe9voqtjnwandb/v2i9bt06-media/table/val_2_aa268cf85be20bd7f3ea.table.json
+2024-05-24 23:46:42,202 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:43,505 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 8
+2024-05-24 23:46:43,506 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:43,506 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:43,506 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 8
+2024-05-24 23:46:43,507 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:43,507 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-05-24 23:46:43,508 INFO    SenderThread:41836 [job_builder.py:build():432] Attempting to build job artifact
+2024-05-24 23:46:43,514 INFO    SenderThread:41836 [job_builder.py:_get_source_type():565] is repo sourced job
+2024-05-24 23:46:43,525 INFO    SenderThread:41836 [job_builder.py:build():541] adding wandb-job metadata file
+2024-05-24 23:46:43,530 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 9
+2024-05-24 23:46:43,531 DEBUG   SenderThread:41836 [sender.py:send():378] send: artifact
+2024-05-24 23:46:43,531 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:43,533 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 9
+2024-05-24 23:46:44,038 INFO    SenderThread:41836 [sender.py:send_artifact():1467] sent artifact job-https___github.com_pulatea_deep_learning_02_rnn_transformers.git_train.py - {'id': 'QXJ0aWZhY3Q6ODQ4ODUwMzkz', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODM1NDc4NA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODQ4ODUwMzkz', 'versionIndex': 5}}}
+2024-05-24 23:46:44,038 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:44,038 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-05-24 23:46:44,038 INFO    SenderThread:41836 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-24 23:46:44,213 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:44,424 INFO    Thread-12 :41836 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:46:44,426 INFO    SenderThread:41836 [dir_watcher.py:finish():388] scan: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files
+2024-05-24 23:46:44,427 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/requirements.txt requirements.txt
+2024-05-24 23:46:44,430 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log output.log
+2024-05-24 23:46:44,433 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/config.yaml config.yaml
+2024-05-24 23:46:44,437 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/wandb-summary.json wandb-summary.json
+2024-05-24 23:46:44,440 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/conda-environment.yaml conda-environment.yaml
+2024-05-24 23:46:44,443 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/wandb-metadata.json wandb-metadata.json
+2024-05-24 23:46:44,445 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/train_1_aecf371679460f287761.table.json media/table/train_1_aecf371679460f287761.table.json
+2024-05-24 23:46:44,445 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/val_1_9ab53c0b6310a7d0f17b.table.json media/table/val_1_9ab53c0b6310a7d0f17b.table.json
+2024-05-24 23:46:44,445 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/train_0_ef0f4ce4abf122ce9768.table.json media/table/train_0_ef0f4ce4abf122ce9768.table.json
+2024-05-24 23:46:44,445 INFO    SenderThread:41836 [dir_watcher.py:finish():402] scan save: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/media/table/val_2_aa268cf85be20bd7f3ea.table.json media/table/val_2_aa268cf85be20bd7f3ea.table.json
+2024-05-24 23:46:44,445 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 10
+2024-05-24 23:46:44,446 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:44,446 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:44,446 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 10
+2024-05-24 23:46:44,446 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:44,446 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-05-24 23:46:44,446 INFO    SenderThread:41836 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-24 23:46:44,841 INFO    wandb-upload_5:41836 [upload_job.py:push():130] Uploaded file ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/requirements.txt
+2024-05-24 23:46:44,912 INFO    wandb-upload_3:41836 [upload_job.py:push():130] Uploaded file ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/config.yaml
+2024-05-24 23:46:44,962 INFO    wandb-upload_1:41836 [upload_job.py:push():130] Uploaded file ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/output.log
+2024-05-24 23:46:45,100 INFO    wandb-upload_4:41836 [upload_job.py:push():130] Uploaded file ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/wandb-summary.json
+2024-05-24 23:46:45,168 INFO    wandb-upload_0:41836 [upload_job.py:push():130] Uploaded file ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/files/conda-environment.yaml
+2024-05-24 23:46:45,218 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:45,218 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:45,374 INFO    Thread-11 (_thread_body):41836 [sender.py:transition_state():613] send defer: 11
+2024-05-24 23:46:45,374 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:45,374 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 11
+2024-05-24 23:46:45,375 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:45,375 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-05-24 23:46:45,375 INFO    SenderThread:41836 [file_pusher.py:join():175] waiting for file pusher
+2024-05-24 23:46:45,381 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 12
+2024-05-24 23:46:45,381 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:45,381 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 12
+2024-05-24 23:46:45,382 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:45,382 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-05-24 23:46:45,382 INFO    SenderThread:41836 [file_stream.py:finish():601] file stream finish called
+2024-05-24 23:46:46,085 INFO    SenderThread:41836 [file_stream.py:finish():605] file stream finish is done
+2024-05-24 23:46:46,085 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 13
+2024-05-24 23:46:46,085 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:46,086 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 13
+2024-05-24 23:46:46,086 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: status_report
+2024-05-24 23:46:46,086 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:46,086 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-05-24 23:46:46,086 INFO    SenderThread:41836 [sender.py:transition_state():613] send defer: 14
+2024-05-24 23:46:46,086 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: defer
+2024-05-24 23:46:46,086 INFO    HandlerThread:41836 [handler.py:handle_request_defer():184] handle defer: 14
+2024-05-24 23:46:46,086 DEBUG   SenderThread:41836 [sender.py:send():378] send: final
+2024-05-24 23:46:46,086 DEBUG   SenderThread:41836 [sender.py:send():378] send: footer
+2024-05-24 23:46:46,086 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: defer
+2024-05-24 23:46:46,086 INFO    SenderThread:41836 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-05-24 23:46:46,087 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-24 23:46:46,087 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: poll_exit
+2024-05-24 23:46:46,088 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: internal_messages
+2024-05-24 23:46:46,089 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: server_info
+2024-05-24 23:46:46,089 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: get_summary
+2024-05-24 23:46:46,090 DEBUG   SenderThread:41836 [sender.py:send_request():405] send_request: server_info
+2024-05-24 23:46:46,091 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: sampled_history
+2024-05-24 23:46:46,257 DEBUG   HandlerThread:41836 [handler.py:handle_request():158] handle_request: shutdown
+2024-05-24 23:46:46,257 INFO    HandlerThread:41836 [handler.py:finish():882] shutting down handler
+2024-05-24 23:46:47,096 INFO    WriterThread:41836 [datastore.py:close():296] close: ./logs/model_4/wandb/run-20240524_230610-5cmmimyt/run-5cmmimyt.wandb
+2024-05-24 23:46:47,258 INFO    SenderThread:41836 [sender.py:finish():1545] shutting down sender
+2024-05-24 23:46:47,258 INFO    SenderThread:41836 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-24 23:46:47,258 INFO    SenderThread:41836 [file_pusher.py:join():175] waiting for file pusher

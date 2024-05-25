@@ -15,3 +15,627 @@ Epoch 01 | train:   4%| | 6/139 [01:05<19:06,  8.62s/batch, cross_entropy_loss: 
 
 Epoch 01 | train:   5%| | 7/139 [01:12<17:54,  8.14s/batch, cross_entropy_loss: 5.
 
+Epoch 01 | train:   6%| | 8/139 [01:19<16:52,  7.73s/batch, cross_entropy_loss: 5.
+
+Epoch 01 | train:   6%| | 9/139 [01:26<15:58,  7.37s/batch, cross_entropy_loss: 5.
+
+Epoch 01 | train:   7%| | 10/139 [01:33<15:39,  7.28s/batch, cross_entropy_loss: 5
+
+Epoch 01 | train:   8%| | 11/139 [01:40<15:11,  7.12s/batch, cross_entropy_loss: 5
+
+Epoch 01 | train:   9%| | 12/139 [01:46<14:47,  6.99s/batch, cross_entropy_loss: 5
+
+Epoch 01 | train:   9%| | 13/139 [01:53<14:37,  6.96s/batch, cross_entropy_loss: 5
+
+Epoch 01 | train:  10%| | 14/139 [02:00<14:27,  6.94s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  11%| | 15/139 [02:07<14:27,  6.99s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  12%| | 16/139 [02:14<14:17,  6.97s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  12%| | 17/139 [02:21<14:01,  6.89s/batch, cross_entropy_loss: 4
+
+
+Epoch 01 | train:  13%|▏| 18/139 [02:34<13:44,  6.81s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  14%|▏| 19/139 [02:34<13:35,  6.79s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  14%|▏| 20/139 [02:41<13:25,  6.77s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  15%|▏| 21/139 [02:47<13:07,  6.68s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  16%|▏| 22/139 [02:54<13:00,  6.68s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  17%|▏| 23/139 [03:01<12:50,  6.64s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  17%|▏| 24/139 [03:07<12:42,  6.63s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  18%|▏| 25/139 [03:14<12:37,  6.64s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  19%|▏| 26/139 [03:21<12:38,  6.71s/batch, cross_entropy_loss: 4
+
+
+Epoch 01 | train:  20%|▏| 28/139 [03:34<12:25,  6.72s/batch, cross_entropy_loss: 4
+inside encoded image is not none
+
+Epoch 01 | train:  21%|▏| 29/139 [03:41<12:16,  6.70s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  22%|▏| 30/139 [03:48<12:43,  7.01s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  22%|▏| 31/139 [03:55<12:26,  6.91s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  23%|▏| 32/139 [04:02<12:05,  6.78s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  24%|▏| 33/139 [04:08<11:55,  6.75s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  24%|▏| 34/139 [04:15<11:43,  6.70s/batch, cross_entropy_loss: 4
+
+Epoch 01 | train:  25%|▎| 35/139 [04:21<11:33,  6.67s/batch, cross_entropy_loss: 4
+
+
+Epoch 01 | train:  26%|▎| 36/139 [04:28<11:25,  6.66s/batch, cross_entropy_loss: 4
+
+
+Epoch 01 | train:  27%|▎| 37/139 [04:42<11:42,  6.89s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  27%|▎| 38/139 [04:42<11:28,  6.82s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  28%|▎| 39/139 [04:49<11:16,  6.77s/batch, cross_entropy_loss: 4
+
+
+Epoch 01 | train:  29%|▎| 41/139 [05:02<10:59,  6.73s/batch, cross_entropy_loss: 4
+inside encoded image is not none
+
+Epoch 01 | train:  30%|▎| 42/139 [05:09<10:50,  6.70s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  32%|▎| 44/139 [05:22<10:40,  6.74s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+Epoch 01 | train:  32%|▎| 45/139 [05:29<10:35,  6.76s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  33%|▎| 46/139 [05:36<10:27,  6.75s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  34%|▎| 47/139 [05:43<10:19,  6.74s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  35%|▎| 48/139 [05:49<10:07,  6.68s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  35%|▎| 49/139 [05:56<10:02,  6.69s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  36%|▎| 50/139 [06:03<09:58,  6.73s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  37%|▎| 51/139 [06:09<09:54,  6.76s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  37%|▎| 52/139 [06:16<09:47,  6.75s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  38%|▍| 53/139 [06:23<09:36,  6.70s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  39%|▍| 54/139 [06:29<09:27,  6.68s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  40%|▍| 56/139 [06:43<09:10,  6.63s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+Epoch 01 | train:  41%|▍| 57/139 [06:49<09:03,  6.62s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  42%|▍| 58/139 [06:56<08:58,  6.65s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  42%|▍| 59/139 [07:02<08:49,  6.62s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  43%|▍| 60/139 [07:09<08:47,  6.68s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  44%|▍| 61/139 [07:17<08:55,  6.86s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  45%|▍| 62/139 [07:23<08:45,  6.83s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  45%|▍| 63/139 [07:30<08:38,  6.82s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  46%|▍| 64/139 [07:37<08:29,  6.79s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  47%|▍| 65/139 [07:43<08:18,  6.74s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  47%|▍| 66/139 [07:50<08:16,  6.80s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  48%|▍| 67/139 [07:57<08:05,  6.75s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  49%|▍| 68/139 [08:04<07:56,  6.72s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  50%|▍| 69/139 [08:10<07:51,  6.74s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  50%|▌| 70/139 [08:17<07:44,  6.74s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  51%|▌| 71/139 [08:24<07:35,  6.70s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  52%|▌| 72/139 [08:31<07:29,  6.71s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  53%|▌| 73/139 [08:37<07:20,  6.68s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  53%|▌| 74/139 [08:44<07:17,  6.73s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  54%|▌| 75/139 [08:51<07:10,  6.73s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  55%|▌| 76/139 [08:57<07:01,  6.69s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  56%|▌| 78/139 [09:11<06:49,  6.71s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+Epoch 01 | train:  57%|▌| 79/139 [09:17<06:40,  6.68s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  58%|▌| 80/139 [09:24<06:35,  6.71s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  58%|▌| 81/139 [09:31<06:37,  6.85s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  59%|▌| 82/139 [09:38<06:27,  6.79s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  60%|▌| 83/139 [09:45<06:28,  6.94s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  60%|▌| 84/139 [09:52<06:23,  6.96s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  61%|▌| 85/139 [09:59<06:16,  6.98s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  62%|▌| 86/139 [10:06<06:06,  6.91s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  63%|▋| 88/139 [10:19<05:43,  6.73s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+Epoch 01 | train:  64%|▋| 89/139 [11:51<26:55, 32.30s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  65%|▋| 90/139 [11:58<20:04, 24.59s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  65%|▋| 91/139 [12:04<15:21, 19.19s/batch, cross_entropy_loss: 3
+
+
+Epoch 01 | train:  66%|▋| 92/139 [12:11<12:05, 15.45s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  67%|▋| 93/139 [12:18<09:47, 12.77s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  68%|▋| 94/139 [12:24<08:11, 10.91s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  68%|▋| 95/139 [12:31<07:05,  9.67s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  69%|▋| 96/139 [12:37<06:15,  8.72s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  70%|▋| 97/139 [12:44<05:40,  8.10s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  71%|▋| 98/139 [12:51<05:14,  7.67s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  71%|▋| 99/139 [12:57<04:52,  7.31s/batch, cross_entropy_loss: 3
+
+Epoch 01 | train:  72%|▋| 100/139 [13:04<04:37,  7.11s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  73%|▋| 101/139 [13:10<04:24,  6.95s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  73%|▋| 102/139 [13:17<04:13,  6.84s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  74%|▋| 103/139 [13:24<04:06,  6.84s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  75%|▋| 104/139 [13:31<03:57,  6.78s/batch, cross_entropy_loss:
+
+
+Epoch 01 | train:  76%|▊| 105/139 [13:37<03:49,  6.75s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  76%|▊| 106/139 [13:44<03:41,  6.71s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  77%|▊| 107/139 [13:50<03:32,  6.65s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  78%|▊| 108/139 [13:57<03:26,  6.66s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  78%|▊| 109/139 [14:04<03:19,  6.65s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  79%|▊| 110/139 [14:10<03:12,  6.63s/batch, cross_entropy_loss:
+
+
+Epoch 01 | train:  81%|▊| 112/139 [14:24<02:59,  6.64s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  81%|▊| 113/139 [14:30<02:52,  6.65s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  82%|▊| 114/139 [14:37<02:47,  6.69s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 01 | train:  83%|▊| 115/139 [14:44<02:39,  6.66s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  83%|▊| 116/139 [14:50<02:33,  6.66s/batch, cross_entropy_loss:
+
+
+Epoch 01 | train:  84%|▊| 117/139 [15:03<02:26,  6.64s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  85%|▊| 118/139 [15:03<02:18,  6.62s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  86%|▊| 119/139 [15:10<02:12,  6.64s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  86%|▊| 120/139 [15:17<02:06,  6.65s/batch, cross_entropy_loss:
+
+
+Epoch 01 | train:  88%|▉| 122/139 [15:30<01:54,  6.72s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  88%|▉| 123/139 [15:37<01:46,  6.65s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  89%|▉| 124/139 [15:44<01:40,  6.68s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  90%|▉| 125/139 [15:50<01:33,  6.67s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  91%|▉| 126/139 [15:57<01:25,  6.61s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  91%|▉| 127/139 [16:03<01:19,  6.63s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  92%|▉| 128/139 [16:10<01:13,  6.66s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  93%|▉| 129/139 [16:17<01:08,  6.81s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  94%|▉| 130/139 [16:25<01:03,  7.07s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  94%|▉| 131/139 [16:32<00:56,  7.05s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 01 | train:  95%|▉| 132/139 [16:39<00:49,  7.01s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  96%|▉| 133/139 [16:46<00:42,  7.03s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  96%|▉| 134/139 [16:52<00:34,  6.86s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  97%|▉| 135/139 [16:59<00:27,  6.78s/batch, cross_entropy_loss:
+
+Epoch 01 | train:  98%|▉| 136/139 [17:05<00:20,  6.69s/batch, cross_entropy_loss:
+
+
+Epoch 01 | train:  99%|▉| 138/139 [17:18<00:06,  6.60s/batch, cross_entropy_loss:
+
+Epoch 01 | train: 100%|█| 139/139 [17:22<00:00,  5.61s/batch, cross_entropy_loss:
+/Users/teapula/anaconda3/lib/python3.11/site-packages/nltk/translate/bleu_score.py:552: UserWarning:
+The hypothesis contains 0 counts of 2-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+inside encoded image is not none
+inside encoded image is not none
+inside encoded image is not none
+inside encoded image is not none
+
+Epoch 01 | val:  10%| | 1/10 [00:28<04:14, 28.23s/batch, cross_entropy_loss: 3.386
+
+Epoch 01 | val:  20%|▏| 2/10 [00:34<02:02, 15.37s/batch, cross_entropy_loss: 3.067
+inside encoded image is not none
+
+Epoch 01 | val:  30%|▎| 3/10 [00:41<01:18, 11.28s/batch, cross_entropy_loss: 3.177
+
+Epoch 01 | val:  40%|▍| 4/10 [00:47<00:55,  9.32s/batch, cross_entropy_loss: 3.065
+
+
+Epoch 01 | val:  60%|▌| 6/10 [00:59<00:30,  7.58s/batch, cross_entropy_loss: 3.073
+
+Epoch 01 | val:  70%|▋| 7/10 [01:06<00:21,  7.15s/batch, cross_entropy_loss: 3.172
+
+Epoch 01 | val:  80%|▊| 8/10 [01:12<00:13,  6.91s/batch, cross_entropy_loss: 3.003
+
+Epoch 01 | val:  90%|▉| 9/10 [01:18<00:06,  6.75s/batch, cross_entropy_loss: 3.075
+inside encoded image is not none
+
+Epoch 01 | val: 100%|█| 10/10 [01:23<00:00,  6.20s/batch, cross_entropy_loss: 3.42
+inside encoded image is not none
+inside encoded image is not none
+inside encoded image is not none
+
+inside encoded image is not none
+
+Epoch 02 | train:   1%| | 1/139 [00:28<1:06:08, 28.75s/batch, cross_entropy_loss:
+
+Epoch 02 | train:   1%| | 2/139 [00:35<35:47, 15.68s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   2%| | 3/139 [00:42<26:18, 11.61s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   3%| | 4/139 [00:48<21:34,  9.59s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   4%| | 5/139 [00:55<19:06,  8.56s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   4%| | 6/139 [01:01<17:33,  7.92s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   5%| | 7/139 [01:08<16:27,  7.48s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   6%| | 8/139 [01:15<15:51,  7.27s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   6%| | 9/139 [01:21<15:18,  7.06s/batch, cross_entropy_loss: 2.
+
+Epoch 02 | train:   7%| | 10/139 [01:28<14:52,  6.92s/batch, cross_entropy_loss: 3
+
+Epoch 02 | train:   8%| | 11/139 [01:35<14:35,  6.84s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+
+Epoch 02 | train:   9%| | 13/139 [01:48<14:05,  6.71s/batch, cross_entropy_loss: 3
+inside encoded image is not none
+
+
+Epoch 02 | train:  11%| | 15/139 [02:01<13:48,  6.68s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  12%| | 16/139 [02:08<13:45,  6.71s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  12%| | 17/139 [02:14<13:32,  6.66s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  13%|▏| 18/139 [02:21<13:25,  6.66s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  14%|▏| 19/139 [02:28<13:20,  6.67s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  14%|▏| 20/139 [02:34<13:09,  6.63s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  15%|▏| 21/139 [02:41<13:03,  6.64s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  17%|▏| 23/139 [02:54<12:54,  6.68s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  17%|▏| 24/139 [03:01<12:47,  6.67s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  18%|▏| 25/139 [03:08<12:35,  6.63s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  19%|▏| 26/139 [03:14<12:30,  6.64s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  20%|▏| 28/139 [03:28<12:34,  6.79s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  22%|▏| 30/139 [03:41<12:10,  6.70s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  22%|▏| 31/139 [03:48<12:00,  6.67s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  22%|▏| 31/139 [05:19<12:00,  6.67s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  24%|▏| 33/139 [05:26<43:13, 24.46s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  25%|▎| 35/139 [05:39<26:41, 15.40s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  26%|▎| 36/139 [05:52<24:48, 14.45s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  27%|▎| 37/139 [05:59<20:44, 12.20s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  27%|▎| 38/139 [06:05<17:44, 10.54s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  28%|▎| 39/139 [06:12<15:44,  9.44s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  29%|▎| 41/139 [06:25<13:09,  8.05s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  30%|▎| 42/139 [06:33<12:46,  7.90s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  32%|▎| 44/139 [06:46<11:31,  7.28s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  32%|▎| 45/139 [06:53<11:02,  7.05s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  33%|▎| 46/139 [07:00<10:46,  6.95s/batch, cross_entropy_loss: 3
+
+
+Epoch 02 | train:  35%|▎| 48/139 [07:13<10:23,  6.85s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  35%|▎| 49/139 [07:20<10:14,  6.83s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  36%|▎| 50/139 [07:27<10:01,  6.75s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  36%|▎| 50/139 [07:33<10:01,  6.75s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  37%|▎| 52/139 [07:40<09:46,  6.74s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  38%|▍| 53/139 [07:47<09:42,  6.78s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  39%|▍| 54/139 [07:54<09:34,  6.75s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  40%|▍| 55/139 [08:00<09:25,  6.73s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  40%|▍| 56/139 [08:07<09:23,  6.79s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  41%|▍| 57/139 [08:14<09:15,  6.78s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  42%|▍| 58/139 [08:27<09:04,  6.72s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  43%|▍| 60/139 [08:34<08:50,  6.71s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  44%|▍| 61/139 [08:41<08:42,  6.70s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  44%|▍| 61/139 [08:47<08:42,  6.70s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  45%|▍| 63/139 [08:54<08:26,  6.67s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  46%|▍| 64/139 [09:00<08:17,  6.63s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  47%|▍| 66/139 [09:14<08:04,  6.64s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  48%|▍| 67/139 [09:20<07:58,  6.65s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  50%|▍| 69/139 [09:34<07:53,  6.76s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  50%|▌| 70/139 [09:41<07:47,  6.77s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  51%|▌| 71/139 [09:48<07:39,  6.76s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  52%|▌| 72/139 [09:54<07:28,  6.69s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  53%|▌| 74/139 [10:07<07:11,  6.64s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  54%|▌| 75/139 [10:14<07:05,  6.65s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  55%|▌| 76/139 [10:21<07:00,  6.67s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  55%|▌| 77/139 [10:27<06:50,  6.63s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  56%|▌| 78/139 [10:42<06:51,  6.74s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  57%|▌| 79/139 [10:42<06:58,  6.97s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  58%|▌| 80/139 [10:48<06:45,  6.87s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  58%|▌| 81/139 [10:55<06:34,  6.81s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  60%|▌| 83/139 [11:08<06:16,  6.72s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  60%|▌| 84/139 [11:15<06:13,  6.79s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  62%|▌| 86/139 [11:28<05:54,  6.68s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  63%|▋| 87/139 [11:35<05:48,  6.69s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+
+Epoch 02 | train:  63%|▋| 88/139 [11:42<05:39,  6.66s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  64%|▋| 89/139 [11:48<05:32,  6.66s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  65%|▋| 90/139 [11:55<05:25,  6.65s/batch, cross_entropy_loss: 2
+
+
+Epoch 02 | train:  66%|▋| 92/139 [12:08<05:13,  6.66s/batch, cross_entropy_loss: 2
+inside encoded image is not none
+
+Epoch 02 | train:  67%|▋| 93/139 [12:15<05:07,  6.68s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  68%|▋| 94/139 [12:22<04:58,  6.64s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  68%|▋| 95/139 [12:28<04:55,  6.72s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  69%|▋| 96/139 [12:35<04:48,  6.71s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  70%|▋| 97/139 [12:42<04:44,  6.77s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  71%|▋| 98/139 [12:49<04:37,  6.76s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  71%|▋| 99/139 [12:56<04:29,  6.74s/batch, cross_entropy_loss: 2
+
+Epoch 02 | train:  72%|▋| 100/139 [13:02<04:23,  6.75s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  73%|▋| 101/139 [13:09<04:16,  6.74s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  73%|▋| 102/139 [13:16<04:07,  6.69s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  74%|▋| 103/139 [13:23<04:04,  6.79s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  75%|▋| 104/139 [13:30<04:04,  6.99s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  76%|▊| 105/139 [13:37<03:53,  6.87s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  76%|▊| 106/139 [13:43<03:46,  6.86s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  77%|▊| 107/139 [13:50<03:40,  6.89s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  78%|▊| 108/139 [13:57<03:33,  6.89s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  78%|▊| 109/139 [14:04<03:27,  6.92s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  79%|▊| 110/139 [14:11<03:18,  6.86s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  80%|▊| 111/139 [14:25<04:13,  9.06s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  81%|▊| 112/139 [14:33<03:54,  8.67s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  81%|▊| 113/139 [14:40<03:32,  8.16s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  82%|▊| 114/139 [14:47<03:15,  7.81s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  83%|▊| 115/139 [14:54<03:00,  7.54s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  83%|▊| 116/139 [15:01<02:47,  7.30s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  85%|▊| 118/139 [15:14<02:28,  7.07s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  86%|▊| 119/139 [15:21<02:18,  6.92s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 02 | train:  86%|▊| 120/139 [15:28<02:09,  6.83s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  87%|▊| 121/139 [15:35<02:04,  6.90s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  88%|▉| 122/139 [15:42<01:57,  6.91s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  88%|▉| 123/139 [15:48<01:49,  6.83s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  90%|▉| 125/139 [16:02<01:34,  6.78s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  91%|▉| 126/139 [16:08<01:27,  6.70s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 02 | train:  91%|▉| 127/139 [16:15<01:19,  6.62s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  93%|▉| 129/139 [16:28<01:05,  6.54s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 02 | train:  94%|▉| 130/139 [16:34<00:58,  6.51s/batch, cross_entropy_loss:
+
+
+Epoch 02 | train:  95%|▉| 132/139 [16:47<00:45,  6.56s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  96%|▉| 133/139 [16:54<00:39,  6.61s/batch, cross_entropy_loss:
+inside encoded image is not none
+
+Epoch 02 | train:  96%|▉| 134/139 [17:00<00:32,  6.59s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  97%|▉| 135/139 [17:07<00:26,  6.62s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  98%|▉| 136/139 [17:14<00:19,  6.61s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  99%|▉| 137/139 [17:20<00:13,  6.56s/batch, cross_entropy_loss:
+
+Epoch 02 | train:  99%|▉| 138/139 [17:27<00:06,  6.54s/batch, cross_entropy_loss:
+
+Epoch 02 | train: 100%|█| 139/139 [17:30<00:00,  5.55s/batch, cross_entropy_loss:
+inside encoded image is not none
+inside encoded image is not none
+inside encoded image is not none
+
+inside encoded image is not none
+Epoch 02 | val:   0%|                                   | 0/10 [00:00<?, ?batch/s]
+
+Epoch 02 | val:  10%| | 1/10 [00:28<04:12, 28.04s/batch, cross_entropy_loss: 3.287
+
+Epoch 02 | val:  20%|▏| 2/10 [00:34<02:02, 15.26s/batch, cross_entropy_loss: 2.954
+
+Epoch 02 | val:  30%|▎| 3/10 [00:40<01:18, 11.22s/batch, cross_entropy_loss: 3.023
+
+Epoch 02 | val:  40%|▍| 4/10 [00:47<00:55,  9.29s/batch, cross_entropy_loss: 2.911
+
+Epoch 02 | val:  50%|▌| 5/10 [00:53<00:41,  8.23s/batch, cross_entropy_loss: 3.024
+
+Epoch 02 | val:  60%|▌| 6/10 [00:59<00:30,  7.56s/batch, cross_entropy_loss: 2.960
+
+Epoch 02 | val:  70%|▋| 7/10 [01:06<00:21,  7.15s/batch, cross_entropy_loss: 3.076
+
+Epoch 02 | val:  80%|▊| 8/10 [01:12<00:13,  6.90s/batch, cross_entropy_loss: 2.821
+
+Epoch 02 | val:  90%|▉| 9/10 [01:18<00:06,  6.70s/batch, cross_entropy_loss: 2.980
+
+Epoch 02 | val: 100%|█| 10/10 [01:23<00:00,  6.15s/batch, cross_entropy_loss: 3.29
+inside encoded image is not none
+inside encoded image is not none
+inside encoded image is not none
+
+inside encoded image is not none
