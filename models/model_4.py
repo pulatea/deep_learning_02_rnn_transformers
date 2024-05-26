@@ -87,7 +87,7 @@ class CaptionGenerator(BaseCaptionGenerator):
         self.to_logits = nn.Linear(in_features=self.hidden_dim, out_features=self.vocabulary_size)
 
         # Attention layers
-        self.q = nn.Linear(self.embedding_dim + self.num_layers * self.hidden_dim, self.hidden_dim)
+        self.q = nn.Linear(self.hidden_dim, self.hidden_dim)
         self.k = nn.Linear(self.hidden_dim, self.hidden_dim)
         self.v = nn.Linear(self.hidden_dim, self.hidden_dim)
         self.attn_combine = nn.Linear(self.hidden_dim * 2, self.hidden_dim)
@@ -131,21 +131,16 @@ class CaptionGenerator(BaseCaptionGenerator):
         output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
 
         # Compute attention
-        q = self.q(hidden_state[0][-1]).unsqueeze(1)  # Use the last layer's hidden state
+        q = self.q(hidden_state[0][-1]).unsqueeze(1)  # Use the last layer's hidden state and add sequence dimension
         k = self.k(output)
         v = self.v(output)
-        attn_weights = F.softmax(torch.bmm(q, k.permute(0, 2, 1)), dim=2)
-
-        print("attention weights shape ", attn_weights.shape)
+        attn_weights = F.softmax(torch.bmm(q, k.permute(0, 2, 1)), dim=2)  # [batch_size, 1, seq_length]
 
         # Get the context vector
-        context = torch.bmm(attn_weights, v)
-        context = context.expand(-1, output.size(1), -1)
+        context = torch.bmm(attn_weights, v)  # [batch_size, 1, hidden_dim]
+        context = context.expand(-1, output.size(1), -1)  # Expand context to match sequence length of output
 
         # Combine context with RNN output
-        # print("output shape ", output.shape)
-        # print("context shape ", context.shape)
-
         output = torch.cat((output, context), 2)
         output = self.attn_combine(output)
         output = F.relu(output)

@@ -3,14 +3,14 @@ wandb_version: 1
 model:
   desc: null
   value:
-    name: model_4_tutorial
+    name: model_4
     parameters:
       embedding_dim: 128
       num_layers: 2
 optimizer:
   desc: null
   value:
-    lr: 0.01
+    lr: 0.001
 vocabulary:
   desc: null
   value:
@@ -34,7 +34,7 @@ _wandb:
     framework: torch
     is_jupyter_run: false
     is_kaggle_kernel: false
-    start_time: 1716716212
+    start_time: 1716719359
     t:
       1:
       - 1
@@ -51,12 +51,10 @@ _wandb:
       - 53
       - 55
       3:
-      - 2
       - 13
       - 14
       - 16
       - 23
-      - 61
       4: 3.11.4
       5: 0.17.0
       8:
