@@ -72,3 +72,1342 @@
 2024-05-26 12:33:30,938 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
 2024-05-26 12:33:31,160 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
 2024-05-26 12:33:31,163 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/config.yaml
+2024-05-26 12:33:32,166 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:33:36,496 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:33:40,206 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:33:41,531 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:33:45,940 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:33:45,940 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:33:46,237 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:33:47,212 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:33:53,162 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:33:54,274 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:33:57,098 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:33:59,108 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:00,945 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:34:00,945 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:34:02,307 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:04,217 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:08,332 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:09,629 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:15,001 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:15,946 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:34:15,946 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:34:16,364 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:20,233 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:24,402 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:25,298 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:27,104 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:34:30,421 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:30,951 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:30,951 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:34:30,951 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:34:36,245 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:37,454 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:41,886 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:45,490 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:45,968 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:34:45,973 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:34:47,170 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:53,117 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:34:53,528 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:34:57,112 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:34:58,118 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:00,969 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:35:00,970 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:35:01,560 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:03,391 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:07,581 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:09,034 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:14,049 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:15,624 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:15,974 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:35:15,975 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:35:19,310 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:23,657 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:24,491 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:27,113 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:35:29,659 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:29,683 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:30,978 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:35:30,979 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:35:35,194 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:37,718 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:40,883 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:43,750 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:45,972 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:45,984 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:35:45,984 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:35:51,588 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:51,780 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:35:56,604 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:35:57,119 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:35:59,814 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:00,989 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:36:00,989 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:36:02,158 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:05,843 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:07,847 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:13,009 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:13,879 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:15,994 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:36:15,994 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:36:18,247 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:19,905 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:23,343 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:27,124 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:36:27,947 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:29,132 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:30,999 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:36:30,999 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:36:34,862 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:35,986 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:39,883 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:42,016 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:45,172 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:46,004 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:36:46,005 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:36:50,053 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:50,349 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:55,394 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:36:56,085 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:36:57,130 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:36:58,091 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:00,993 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:01,009 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:37:01,009 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:37:04,120 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:06,534 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:11,687 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:12,160 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:16,015 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:37:16,016 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:37:17,369 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:20,195 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:22,949 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:26,225 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:27,136 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:37:28,141 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:31,020 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:37:31,020 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:37:33,624 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:34,262 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:38,648 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:42,297 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:44,475 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:46,024 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:37:46,025 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:37:48,319 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:49,572 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:54,591 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:37:56,352 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:37:57,142 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:38:00,151 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:01,029 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:38:01,029 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:38:02,383 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:05,788 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:10,423 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:10,817 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:16,016 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:16,034 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:38:16,034 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:38:18,460 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:21,388 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:24,486 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:26,911 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:27,148 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:38:31,039 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:38:31,040 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:38:32,350 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:32,530 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:38,011 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:38,559 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:43,035 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:46,042 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:38:46,042 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:38:46,596 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:48,270 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:52,623 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:38:53,302 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:38:57,152 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:38:59,162 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:00,661 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:01,070 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:39:01,083 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:39:04,326 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:08,702 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:10,019 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:15,292 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:16,059 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:39:16,059 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:39:16,739 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:20,437 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:22,765 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:25,551 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:27,157 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:39:30,802 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:31,045 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:31,066 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:39:31,067 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:39:36,431 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:38,837 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:41,554 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:44,863 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:46,069 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:39:46,070 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:39:47,410 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:52,897 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:39:53,032 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:39:57,164 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:39:58,167 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:00,933 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:01,071 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:40:01,071 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:40:03,282 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:06,960 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:08,743 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:14,005 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:14,997 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:16,075 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:40:16,075 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:40:19,413 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:23,037 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:25,282 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:27,170 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:40:29,070 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:30,371 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:31,077 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:40:31,077 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:40:35,636 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:37,104 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:40,656 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:43,130 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:45,918 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:46,082 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:40:46,082 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:40:50,960 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:51,167 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:40:55,979 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:40:57,175 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:40:59,198 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:01,073 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:01,087 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:41:01,087 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:41:06,148 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:07,235 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:11,169 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:13,253 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:15,264 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:16,092 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:41:16,093 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:41:16,375 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:21,292 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:21,524 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:26,545 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:27,181 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:41:29,322 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:31,098 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:41:31,098 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:41:32,376 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:35,336 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:37,895 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:43,118 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:43,371 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:46,100 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:41:46,101 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:41:48,274 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:51,409 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:53,446 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:41:57,187 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:41:57,435 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:41:59,196 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:01,102 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:42:01,103 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:42:04,735 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:05,475 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:09,760 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:11,499 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:15,123 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:16,108 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:42:16,108 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:42:19,535 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:20,541 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:25,695 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:27,189 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:42:27,571 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:31,100 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:31,113 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:42:31,113 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:42:32,597 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:36,772 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:40,632 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:42,026 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:46,115 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:42:46,115 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:42:47,409 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:48,662 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:52,429 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:42:54,692 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:42:57,194 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:42:58,199 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:01,120 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:43:01,120 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:43:02,722 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:03,360 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:08,752 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:08,888 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:13,905 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:16,125 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:43:16,125 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:43:16,788 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:19,399 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:22,820 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:25,080 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:27,197 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:43:30,352 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:30,856 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:31,130 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:43:31,130 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:43:35,507 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:36,887 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:41,461 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:44,928 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:46,135 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:43:46,136 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:43:47,454 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:52,966 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:43:53,132 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:57,204 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:43:58,214 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:43:59,006 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:44:01,136 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:44:01,136 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:44:03,342 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:44:07,141 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:44:08,438 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:44:13,193 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:44:13,651 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:13,746 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:14,617 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:49:14,617 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:49:18,527 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:19,779 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:23,646 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:25,661 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:49:27,827 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:28,714 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:29,604 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:49:29,604 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:49:33,870 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:34,635 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:39,652 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:41,931 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:44,613 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:49:44,616 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:49:44,928 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:47,988 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:50,881 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:49:55,657 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:49:56,065 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:49:56,667 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:54:57,705 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:54:57,706 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:55:00,033 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:03,121 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:08,090 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:08,253 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:12,706 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:55:12,707 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:55:14,193 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:16,165 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:19,234 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:22,217 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:23,570 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:55:24,581 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:27,715 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:55:27,716 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:55:28,253 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:29,965 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:35,285 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:36,334 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:40,321 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:55:42,387 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:55:42,724 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:55:42,724 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:58:55,987 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:58:56,153 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:58:59,093 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:59:01,157 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:03,254 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:59:03,255 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:59:04,047 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:59:06,529 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:10,098 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:59:12,219 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:17,301 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:18,180 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:59:18,266 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:59:18,266 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 12:59:22,366 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:24,234 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:59:27,413 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:29,106 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 12:59:32,291 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 12:59:33,269 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 12:59:33,275 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 12:59:33,275 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:04:32,987 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:04:38,016 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:04:41,031 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:04:43,632 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:04:43,632 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:04:43,632 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:04:49,072 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:04:49,286 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:04:54,309 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:04:54,479 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:04:57,113 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:04:58,720 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:04:58,723 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:05:00,116 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:05,160 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:05,418 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:10,438 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:13,196 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:13,685 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:05:13,685 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:05:16,016 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:19,225 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:21,914 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:24,487 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:05:27,022 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:27,263 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:28,690 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:05:28,690 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:05:32,147 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:33,294 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:37,241 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:41,337 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:42,271 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:43,691 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:05:43,691 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:05:47,362 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:48,179 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:53,247 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:54,496 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:05:55,396 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:05:58,515 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:05:58,696 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:05:58,697 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:06:01,423 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:04,331 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:09,457 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:10,298 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:13,699 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:06:13,699 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:06:15,347 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:15,484 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:20,368 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:23,519 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:24,499 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:06:25,504 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:28,704 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:06:28,704 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:06:29,547 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:30,935 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:36,448 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:37,584 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:41,473 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:43,608 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:43,708 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:06:43,708 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:06:47,088 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:51,643 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:52,773 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:54,505 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:06:57,667 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:06:58,707 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:06:58,713 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:06:58,713 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:07:03,754 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:05,700 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:08,868 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:13,718 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:07:13,718 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:07:13,739 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:14,027 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:19,767 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:19,989 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:24,511 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:07:25,027 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:25,799 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:27,808 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:28,723 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:07:28,723 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:07:31,015 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:33,838 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:36,710 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:37,860 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:07:41,730 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:43,728 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:07:43,728 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:07:46,932 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:51,947 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:54,513 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:07:57,523 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:07:58,733 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:07:58,734 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:08:03,092 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:08,108 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:13,121 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:13,738 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:08:13,739 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:08:16,057 DEBUG   SenderThread:68068 [sender.py:send():378] send: telemetry
+2024-05-26 13:08:16,371 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-26 13:08:16,371 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: log_artifact
+2024-05-26 13:08:17,024 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/train_0_9be61f9d777e9fd5ec7d.table.json
+2024-05-26 13:08:17,026 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table
+2024-05-26 13:08:17,027 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media
+2024-05-26 13:08:17,058 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-26 13:08:18,025 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:08:18,075 INFO    wandb-upload_5:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp2qk9dazr
+2024-05-26 13:08:18,118 INFO    wandb-upload_0:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/77w6a8f4-media/table/train_0_9be61f9d777e9fd5ec7d.table.json
+2024-05-26 13:08:18,398 INFO    wandb-upload_4:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp9obqt2tt
+2024-05-26 13:08:18,398 INFO    wandb-upload_3:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp085ci53o
+2024-05-26 13:08:18,398 INFO    wandb-upload_2:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpvfvgv2iy
+2024-05-26 13:08:18,432 INFO    wandb-upload_1:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp4lh3gv5h
+2024-05-26 13:08:19,255 INFO    SenderThread:68068 [sender.py:send_request_log_artifact():1455] logged artifact run-zxtxjab4-train - {'id': 'QXJ0aWZhY3Q6ODUwMjY5NDE4', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTIwNTE5MQ==', 'latestArtifact': None}}
+2024-05-26 13:08:19,255 DEBUG   SenderThread:68068 [sender.py:send():378] send: files
+2024-05-26 13:08:19,255 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:19,255 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file media/table/train_0_9be61f9d777e9fd5ec7d.table.json with policy now
+2024-05-26 13:08:19,960 INFO    wandb-upload_5:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/vrr5gbg9-media/table/train_0_9be61f9d777e9fd5ec7d.table.json
+2024-05-26 13:08:22,045 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:08:24,281 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:24,514 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:08:28,742 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:08:28,743 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:08:30,118 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:35,136 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:36,109 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/config.yaml
+2024-05-26 13:08:40,424 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:43,743 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:08:43,745 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:08:45,676 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:46,152 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:08:50,701 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:54,192 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:08:54,520 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:08:56,526 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:08:58,745 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:08:58,745 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:09:00,224 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:02,152 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:07,230 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:08,265 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:12,255 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:13,750 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:09:13,750 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:09:16,300 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:17,381 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:22,328 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:23,033 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:24,526 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:09:28,359 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:28,749 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:28,752 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:09:28,752 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:09:33,769 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:36,402 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:38,791 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:42,428 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:43,757 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:09:43,757 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:09:44,039 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:47,452 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:09:49,359 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:54,377 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:09:54,530 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:09:58,760 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:09:58,760 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:10:00,101 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:05,124 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:10,148 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:13,765 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:10:13,766 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:10:16,061 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:21,079 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:24,531 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:10:26,358 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:26,825 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-26 13:10:26,825 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: log_artifact
+2024-05-26 13:10:26,833 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-26 13:10:27,652 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:10:27,652 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/val_1_754c601069f021b76115.table.json
+2024-05-26 13:10:27,652 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table
+2024-05-26 13:10:27,969 INFO    wandb-upload_2:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpeu0cljra
+2024-05-26 13:10:28,037 INFO    wandb-upload_0:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/nm3n29wv-media/table/val_1_754c601069f021b76115.table.json
+2024-05-26 13:10:28,133 INFO    wandb-upload_4:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp12jwjted
+2024-05-26 13:10:28,160 INFO    wandb-upload_3:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmptu_m6x6x
+2024-05-26 13:10:28,768 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:10:28,993 INFO    SenderThread:68068 [sender.py:send_request_log_artifact():1455] logged artifact run-zxtxjab4-val - {'id': 'QXJ0aWZhY3Q6ODUwMjcwODky', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTIwNTk3MQ==', 'latestArtifact': None}}
+2024-05-26 13:10:28,993 DEBUG   SenderThread:68068 [sender.py:send():378] send: files
+2024-05-26 13:10:28,994 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file media/table/val_1_754c601069f021b76115.table.json with policy now
+2024-05-26 13:10:28,994 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:10:29,504 INFO    wandb-upload_1:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/vuh3np5e-media/table/val_1_754c601069f021b76115.table.json
+2024-05-26 13:10:29,674 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:10:32,213 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:37,234 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:42,265 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:43,773 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:10:43,773 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:10:48,060 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:53,085 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:54,537 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:10:57,796 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:10:58,352 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:10:58,779 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:10:58,779 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:11:03,390 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:05,835 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:08,696 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:11,864 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:13,778 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:13,784 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:11:13,784 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:11:18,909 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:19,904 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:23,920 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:24,543 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:11:25,933 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:28,788 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:11:28,790 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:11:29,063 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:33,972 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:34,161 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:39,183 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:40,003 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:43,793 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:11:43,794 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:11:44,288 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:48,044 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:49,514 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:54,075 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:11:54,549 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:11:54,550 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:11:58,798 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:11:58,799 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:12:00,124 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:02,109 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:05,743 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:10,141 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:10,749 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:13,803 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:12:13,804 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:12:15,820 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:16,166 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:20,841 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:24,199 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:24,554 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:12:26,561 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:28,809 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:12:28,810 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:12:30,227 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:32,304 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:37,416 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:38,265 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:42,437 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:43,814 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:12:43,814 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:12:44,288 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:48,210 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:52,323 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:53,691 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:54,561 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:12:58,351 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:12:58,813 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:12:58,815 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:12:58,815 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:13:04,124 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:06,382 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:09,826 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:13,818 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:13:13,818 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:13:14,420 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:15,131 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:20,163 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:20,451 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:24,566 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:13:25,571 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:28,487 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:28,822 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:13:28,823 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:13:31,520 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:34,516 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:37,391 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:42,543 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:42,754 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:43,829 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:13:43,829 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:13:47,797 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:50,583 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:52,820 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:54,572 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:13:56,611 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:13:57,951 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:13:58,833 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:13:58,833 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:14:03,039 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:04,649 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:08,061 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:10,680 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:13,185 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:13,839 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:14:13,839 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:14:18,312 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:18,718 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:23,331 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:24,577 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:14:24,745 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:28,594 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:28,843 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:14:28,844 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:14:32,784 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:34,453 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:38,810 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:39,483 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:43,848 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:14:43,848 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:14:44,563 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:46,855 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:49,583 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:52,885 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:14:54,583 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:14:54,585 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:14:58,853 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:14:58,853 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:15:00,039 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:00,927 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:05,061 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:08,959 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:10,148 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:13,859 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:15:13,859 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:15:14,984 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:16,067 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:21,212 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:23,020 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:24,588 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:15:26,599 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:28,862 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:15:28,863 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:15:29,053 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:32,137 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:37,104 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:37,727 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:43,135 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:43,687 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:43,867 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:15:43,868 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:15:48,694 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:51,173 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:53,798 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:15:54,595 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:15:57,204 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:15:58,873 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:15:58,873 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:15:59,179 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:04,970 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:05,245 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:09,990 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:11,275 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:13,286 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:13,877 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:16:13,877 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:16:15,191 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:19,310 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:20,191 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:24,600 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:16:25,605 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:27,352 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:28,882 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:16:28,882 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:16:31,072 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:33,374 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:36,307 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:41,413 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:41,717 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:43,885 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:16:43,886 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:16:46,920 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:47,439 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:51,946 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:54,605 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:16:55,468 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:16:57,620 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:16:58,890 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:16:58,891 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:17:01,497 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:02,896 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:08,062 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:09,537 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:13,082 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:13,895 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:17:13,895 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:17:14,564 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:18,268 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:22,607 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:24,182 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:24,608 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:17:28,634 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:28,900 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:17:28,900 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:17:30,156 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:35,171 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:36,676 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:40,475 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:43,905 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:17:43,906 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:17:44,714 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:46,105 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:50,746 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:51,653 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:54,613 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:17:56,667 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:17:58,785 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:17:58,910 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:17:58,910 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:18:02,155 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:04,813 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:07,832 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:12,849 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:12,889 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:13,915 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:18:13,916 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:18:17,957 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:18,876 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:22,974 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:24,619 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:18:26,917 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:28,013 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:28,920 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:18:28,921 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:18:32,946 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:33,085 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:38,107 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:40,981 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:43,250 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:43,925 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:18:43,926 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:18:47,012 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:48,420 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:53,434 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:54,627 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:18:55,049 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:18:58,648 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:18:58,931 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:18:58,931 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:19:03,084 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:04,505 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:09,116 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:09,625 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:13,933 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:19:13,934 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:19:14,642 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:17,154 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:19,667 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:23,181 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:24,631 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:19:25,636 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:28,937 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:19:28,938 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:19:31,170 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:31,222 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:36,868 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:37,250 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:41,894 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:43,940 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:19:43,940 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:19:45,292 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:47,268 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:52,292 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:53,330 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:19:54,650 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:19:57,661 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:19:58,944 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:19:58,944 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:19:59,355 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:03,163 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:07,392 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:08,602 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:13,420 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:13,876 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:13,944 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:20:13,944 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:20:19,152 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:21,459 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:24,643 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:20:24,643 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:28,949 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:20:28,950 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:20:29,503 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:30,124 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:35,192 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:35,531 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:40,213 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:43,565 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:43,950 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:20:43,950 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:20:46,167 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:49,592 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:51,416 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:54,649 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:20:56,429 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:20:57,634 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:20:58,952 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:20:58,953 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:21:02,139 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:03,655 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:07,593 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:11,693 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:13,136 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:13,956 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:21:13,956 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:21:18,214 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:19,728 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:23,238 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:24,652 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:21:25,756 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:28,668 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:28,958 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:21:28,958 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:21:33,797 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:34,354 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:39,446 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:39,821 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:43,963 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:21:43,963 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:21:45,142 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:47,856 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:50,768 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:53,889 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:54,657 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:21:55,895 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:21:56,667 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:21:58,968 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:21:58,968 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:22:01,924 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:01,938 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:06,953 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:09,963 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:12,072 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:13,973 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:22:13,973 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:22:15,985 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:17,283 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:22,470 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:24,022 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:24,663 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:22:27,677 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:28,978 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:22:28,978 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:22:30,051 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:33,200 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:38,083 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:38,577 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:43,774 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:43,983 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:22:43,983 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:22:44,107 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:49,344 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:52,146 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:54,669 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:22:54,669 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:22:58,176 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:22:58,988 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:22:58,988 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:23:00,321 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:05,972 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:06,213 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:11,024 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:12,236 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:13,993 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:23:13,994 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:23:14,248 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:16,209 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:20,267 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:22,048 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:24,675 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:23:26,301 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:27,089 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:28,998 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:23:28,999 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:23:32,114 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:34,336 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:37,216 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:42,380 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:42,387 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:44,004 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:23:44,004 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:23:48,390 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:48,407 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:53,412 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:54,680 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:23:56,442 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:23:58,692 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:23:59,009 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:23:59,009 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:24:02,473 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:04,611 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:09,700 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:10,513 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:14,014 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:24:14,014 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:24:14,716 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:16,543 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:19,815 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:24,575 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:24,685 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:24:25,690 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:29,019 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:24:29,019 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:24:30,607 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:31,317 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:36,964 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:38,642 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:41,986 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:43,664 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:44,021 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:24:44,021 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:24:47,402 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:51,703 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:53,159 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:54,691 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:24:57,732 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:24:58,316 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:24:59,026 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:24:59,026 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:25:04,243 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:05,773 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:09,621 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:13,813 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:14,031 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:25:14,031 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:25:15,344 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:19,843 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:20,759 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:24,698 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:25:25,831 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:27,878 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:29,036 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:25:29,037 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:25:31,298 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:33,914 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:36,988 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:41,945 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:42,017 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:44,039 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:25:44,039 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:25:47,037 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:47,972 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:52,058 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:54,702 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:25:56,014 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:25:57,709 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:25:59,044 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:25:59,044 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:26:02,041 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:03,103 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:08,158 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:10,078 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:13,177 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:14,049 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:26:14,049 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:26:16,109 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:19,131 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:24,153 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:24,708 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:26:24,708 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:29,054 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:26:29,054 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:26:30,181 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:30,213 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:35,230 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:38,221 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:41,161 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:44,059 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:26:44,059 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:26:44,249 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:46,362 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:52,244 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:52,286 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:54,714 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:26:57,281 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:26:58,314 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:26:59,060 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:26:59,061 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:27:02,311 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:06,352 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:27:08,302 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:12,376 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:27:13,344 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:14,066 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:27:14,066 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:27:16,400 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:27:19,013 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:24,028 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:24,719 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:27:29,072 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:27:29,074 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:27:29,074 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:34,344 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:39,361 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:44,077 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:27:44,078 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:27:45,250 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:50,267 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:54,725 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:27:55,979 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-26 13:27:55,980 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: log_artifact
+2024-05-26 13:27:55,995 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-26 13:27:56,588 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:27:56,588 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/train_1_84b301bb6fa88d2eb190.table.json
+2024-05-26 13:27:56,588 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table
+2024-05-26 13:27:57,681 INFO    wandb-upload_5:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp9rxnortc
+2024-05-26 13:27:57,681 INFO    wandb-upload_1:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/sjtppgzg-media/table/train_1_84b301bb6fa88d2eb190.table.json
+2024-05-26 13:27:58,057 INFO    wandb-upload_0:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpbo2w_2io
+2024-05-26 13:27:58,181 INFO    wandb-upload_3:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp8tmuvnj3
+2024-05-26 13:27:58,181 INFO    wandb-upload_2:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmprm1qw3rm
+2024-05-26 13:27:58,285 INFO    wandb-upload_4:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpse445ewb
+2024-05-26 13:27:59,081 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:27:59,116 INFO    SenderThread:68068 [sender.py:send_request_log_artifact():1455] logged artifact run-zxtxjab4-train - {'id': 'QXJ0aWZhY3Q6ODUwMjgwMTk2', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTIwNTE5MQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODUwMjY5NDE4', 'versionIndex': 0}}}
+2024-05-26 13:27:59,116 DEBUG   SenderThread:68068 [sender.py:send():378] send: files
+2024-05-26 13:27:59,116 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:27:59,116 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file media/table/train_1_84b301bb6fa88d2eb190.table.json with policy now
+2024-05-26 13:27:59,116 DEBUG   SenderThread:68068 [sender.py:send():378] send: history
+2024-05-26 13:27:59,116 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: summary_record
+2024-05-26 13:27:59,116 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 13:27:59,117 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:27:59,604 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/wandb-summary.json
+2024-05-26 13:27:59,799 INFO    wandb-upload_5:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/79n55cbc-media/table/train_1_84b301bb6fa88d2eb190.table.json
+2024-05-26 13:28:00,605 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:04,422 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:09,442 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:14,084 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:28:14,084 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:28:15,262 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:20,285 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:24,717 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:24,726 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:28:25,731 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:29,088 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:28:29,089 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:28:30,745 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:31,072 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:36,091 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:38,782 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:41,302 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:44,091 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:28:44,092 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:28:46,348 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:46,820 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:52,188 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:52,854 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:28:54,731 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:28:57,746 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:28:59,096 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:28:59,096 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:29:00,896 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:29:03,307 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:06,920 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:29:08,840 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:14,073 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:14,101 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:29:14,102 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:29:14,956 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:29:19,390 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:20,983 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:29:24,738 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:29:24,739 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:27,014 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:29:29,106 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:29:29,107 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:29:30,355 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:35,371 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:40,393 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:44,109 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:29:44,110 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:29:46,385 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:51,401 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:54,738 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:29:56,749 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:29:59,114 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 13:29:59,114 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 13:30:02,422 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:30:06,020 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-26 13:30:06,021 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: log_artifact
+2024-05-26 13:30:06,025 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-26 13:30:06,191 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/val_2_50645fbc8a316040b6a4.table.json
+2024-05-26 13:30:06,192 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table
+2024-05-26 13:30:06,786 INFO    wandb-upload_0:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/5mbwgqzz-media/table/val_2_50645fbc8a316040b6a4.table.json
+2024-05-26 13:30:07,041 INFO    wandb-upload_2:68068 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmplxxhptlm
+2024-05-26 13:30:07,042 INFO    wandb-upload_4:68068 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpgcuygi68
+2024-05-26 13:30:07,152 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:07,197 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:30:07,606 INFO    wandb-upload_1:68068 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp0_5w86xs
+2024-05-26 13:30:08,855 INFO    SenderThread:68068 [sender.py:send_request_log_artifact():1455] logged artifact run-zxtxjab4-val - {'id': 'QXJ0aWZhY3Q6ODUwMjgxMzMx', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTIwNTk3MQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODUwMjcwODky', 'versionIndex': 0}}}
+2024-05-26 13:30:08,856 DEBUG   SenderThread:68068 [sender.py:send():378] send: files
+2024-05-26 13:30:08,856 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file media/table/val_2_50645fbc8a316040b6a4.table.json with policy now
+2024-05-26 13:30:08,856 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:30:08,857 DEBUG   SenderThread:68068 [sender.py:send():378] send: telemetry
+2024-05-26 13:30:08,857 DEBUG   SenderThread:68068 [sender.py:send():378] send: exit
+2024-05-26 13:30:08,858 INFO    SenderThread:68068 [sender.py:send_exit():585] handling exit code: 0
+2024-05-26 13:30:08,864 INFO    SenderThread:68068 [sender.py:send_exit():587] handling runtime: 3459
+2024-05-26 13:30:08,865 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 13:30:08,865 INFO    SenderThread:68068 [sender.py:send_exit():593] send defer
+2024-05-26 13:30:08,866 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:08,866 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,869 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 0
+2024-05-26 13:30:08,872 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,872 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-05-26 13:30:08,872 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 1
+2024-05-26 13:30:08,872 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,873 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 1
+2024-05-26 13:30:08,873 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,873 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-05-26 13:30:08,873 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 2
+2024-05-26 13:30:08,873 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,873 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 2
+2024-05-26 13:30:08,873 INFO    HandlerThread:68068 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-26 13:30:08,873 DEBUG   SystemMonitor:68068 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-26 13:30:08,874 DEBUG   SystemMonitor:68068 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-26 13:30:08,874 INFO    HandlerThread:68068 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-26 13:30:08,875 INFO    HandlerThread:68068 [interfaces.py:finish():200] Joined disk monitor
+2024-05-26 13:30:08,875 INFO    HandlerThread:68068 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-26 13:30:08,875 INFO    HandlerThread:68068 [interfaces.py:finish():200] Joined memory monitor
+2024-05-26 13:30:08,875 INFO    HandlerThread:68068 [interfaces.py:finish():200] Joined network monitor
+2024-05-26 13:30:08,876 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,876 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-05-26 13:30:08,877 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 3
+2024-05-26 13:30:08,877 DEBUG   SenderThread:68068 [sender.py:send():378] send: stats
+2024-05-26 13:30:08,877 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,877 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 3
+2024-05-26 13:30:08,878 DEBUG   SenderThread:68068 [sender.py:send():378] send: history
+2024-05-26 13:30:08,878 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: summary_record
+2024-05-26 13:30:08,879 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 13:30:08,879 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,879 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-05-26 13:30:08,879 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 4
+2024-05-26 13:30:08,879 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,879 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 4
+2024-05-26 13:30:08,879 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,879 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-05-26 13:30:08,879 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 5
+2024-05-26 13:30:08,880 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,880 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 5
+2024-05-26 13:30:08,880 DEBUG   SenderThread:68068 [sender.py:send():378] send: summary
+2024-05-26 13:30:08,880 INFO    SenderThread:68068 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 13:30:08,881 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,881 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-05-26 13:30:08,881 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 6
+2024-05-26 13:30:08,881 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:08,881 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 6
+2024-05-26 13:30:08,881 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:08,881 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-05-26 13:30:08,885 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:30:09,156 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:09,185 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 7
+2024-05-26 13:30:09,186 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:09,186 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:09,186 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 7
+2024-05-26 13:30:09,186 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:09,186 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-05-26 13:30:09,205 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/wandb-summary.json
+2024-05-26 13:30:09,206 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/config.yaml
+2024-05-26 13:30:09,507 INFO    wandb-upload_3:68068 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp51531__swandb/w8qnakmn-media/table/val_2_50645fbc8a316040b6a4.table.json
+2024-05-26 13:30:10,159 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:10,446 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 8
+2024-05-26 13:30:10,446 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:10,446 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:10,447 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 8
+2024-05-26 13:30:10,447 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:10,447 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-05-26 13:30:10,447 INFO    SenderThread:68068 [job_builder.py:build():432] Attempting to build job artifact
+2024-05-26 13:30:10,449 INFO    SenderThread:68068 [job_builder.py:_get_source_type():565] is repo sourced job
+2024-05-26 13:30:10,454 INFO    SenderThread:68068 [job_builder.py:build():541] adding wandb-job metadata file
+2024-05-26 13:30:10,458 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 9
+2024-05-26 13:30:10,458 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:10,458 DEBUG   SenderThread:68068 [sender.py:send():378] send: artifact
+2024-05-26 13:30:10,458 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 9
+2024-05-26 13:30:11,163 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:11,213 INFO    Thread-12 :68068 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:30:11,549 INFO    wandb-upload_0:68068 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmpei0z8h3m
+2024-05-26 13:30:11,813 INFO    wandb-upload_2:68068 [upload_job.py:push():88] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpcrm2765y/wandb-job.json
+2024-05-26 13:30:12,969 INFO    SenderThread:68068 [sender.py:send_artifact():1467] sent artifact job-https___github.com_pulatea_deep_learning_02_rnn_transformers.git_train.py - {'id': 'QXJ0aWZhY3Q6ODUwMjgxMzc2', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3ODM1NDc4NA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODUwMjQ4NDAz', 'versionIndex': 10}}}
+2024-05-26 13:30:12,969 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:12,969 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-05-26 13:30:12,969 INFO    SenderThread:68068 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-26 13:30:13,224 INFO    SenderThread:68068 [dir_watcher.py:finish():388] scan: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files
+2024-05-26 13:30:13,225 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/requirements.txt requirements.txt
+2024-05-26 13:30:13,225 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log output.log
+2024-05-26 13:30:13,231 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/config.yaml config.yaml
+2024-05-26 13:30:13,232 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/wandb-summary.json wandb-summary.json
+2024-05-26 13:30:13,235 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/conda-environment.yaml conda-environment.yaml
+2024-05-26 13:30:13,240 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/wandb-metadata.json wandb-metadata.json
+2024-05-26 13:30:13,241 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/train_0_9be61f9d777e9fd5ec7d.table.json media/table/train_0_9be61f9d777e9fd5ec7d.table.json
+2024-05-26 13:30:13,242 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/val_1_754c601069f021b76115.table.json media/table/val_1_754c601069f021b76115.table.json
+2024-05-26 13:30:13,242 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/val_2_50645fbc8a316040b6a4.table.json media/table/val_2_50645fbc8a316040b6a4.table.json
+2024-05-26 13:30:13,242 INFO    SenderThread:68068 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/media/table/train_1_84b301bb6fa88d2eb190.table.json media/table/train_1_84b301bb6fa88d2eb190.table.json
+2024-05-26 13:30:13,242 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 10
+2024-05-26 13:30:13,243 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:13,244 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:13,245 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 10
+2024-05-26 13:30:13,246 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:13,246 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-05-26 13:30:13,246 INFO    SenderThread:68068 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-26 13:30:13,626 INFO    wandb-upload_3:68068 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/output.log
+2024-05-26 13:30:13,641 INFO    wandb-upload_1:68068 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/requirements.txt
+2024-05-26 13:30:13,685 INFO    wandb-upload_0:68068 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/config.yaml
+2024-05-26 13:30:13,702 INFO    wandb-upload_5:68068 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/wandb-summary.json
+2024-05-26 13:30:13,723 INFO    wandb-upload_2:68068 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/files/conda-environment.yaml
+2024-05-26 13:30:13,925 INFO    Thread-11 (_thread_body):68068 [sender.py:transition_state():613] send defer: 11
+2024-05-26 13:30:13,926 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:13,927 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 11
+2024-05-26 13:30:13,927 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:13,928 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-05-26 13:30:13,928 INFO    SenderThread:68068 [file_pusher.py:join():175] waiting for file pusher
+2024-05-26 13:30:13,932 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 12
+2024-05-26 13:30:13,932 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:13,932 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 12
+2024-05-26 13:30:13,932 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 13:30:13,932 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:13,933 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-05-26 13:30:13,933 INFO    SenderThread:68068 [file_stream.py:finish():601] file stream finish called
+2024-05-26 13:30:14,177 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:14,445 INFO    SenderThread:68068 [file_stream.py:finish():605] file stream finish is done
+2024-05-26 13:30:14,446 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 13
+2024-05-26 13:30:14,446 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:14,446 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:14,446 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 13
+2024-05-26 13:30:14,447 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:14,447 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-05-26 13:30:14,447 INFO    SenderThread:68068 [sender.py:transition_state():613] send defer: 14
+2024-05-26 13:30:14,447 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 13:30:14,447 DEBUG   SenderThread:68068 [sender.py:send():378] send: final
+2024-05-26 13:30:14,447 INFO    HandlerThread:68068 [handler.py:handle_request_defer():184] handle defer: 14
+2024-05-26 13:30:14,447 DEBUG   SenderThread:68068 [sender.py:send():378] send: footer
+2024-05-26 13:30:14,447 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: defer
+2024-05-26 13:30:14,447 INFO    SenderThread:68068 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-05-26 13:30:14,448 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 13:30:14,449 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 13:30:14,449 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: internal_messages
+2024-05-26 13:30:14,450 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: server_info
+2024-05-26 13:30:14,450 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: get_summary
+2024-05-26 13:30:14,450 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: sampled_history
+2024-05-26 13:30:14,450 DEBUG   SenderThread:68068 [sender.py:send_request():405] send_request: server_info
+2024-05-26 13:30:14,620 DEBUG   HandlerThread:68068 [handler.py:handle_request():158] handle_request: shutdown
+2024-05-26 13:30:14,621 INFO    HandlerThread:68068 [handler.py:finish():882] shutting down handler
+2024-05-26 13:30:15,452 INFO    WriterThread:68068 [datastore.py:close():296] close: ./logs/model_4_chat_gpt/wandb/run-20240526_123226-zxtxjab4/run-zxtxjab4.wandb
+2024-05-26 13:30:15,618 INFO    SenderThread:68068 [sender.py:finish():1545] shutting down sender
+2024-05-26 13:30:15,619 INFO    SenderThread:68068 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-26 13:30:15,619 INFO    SenderThread:68068 [file_pusher.py:join():175] waiting for file pusher
