@@ -1,0 +1,32 @@
+
+Traceback (most recent call last):
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 82, in <module>
+    main(args=args, config=config)
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 70, in main
+    trainer.train(train_dataloader=train_dataloader,
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 25, in train
+    self.run_epoch(dataloader=train_dataloader, epoch=epoch, phase='train')
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 42, in run_epoch
+    output = self.model(image, caption_indices[:, :-1])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/base.py", line 37, in forward
+    output = self.caption_generator.forward(encoded_image=encoded_image, caption_indices=caption_indices)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/model_4.py", line 113, in forward
+    torch.cat([embeddings, rearrange(hidden_state, "n b h -> b 1 (n h)").expand(-1, embeddings.size(1), -1)],
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/einops/einops.py", line 591, in rearrange
+    return reduce(tensor, pattern, reduction="rearrange", **axes_lengths)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/einops/einops.py", line 518, in reduce
+    backend = get_backend(tensor)
+              ^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/einops/_backends.py", line 59, in get_backend
+    raise RuntimeError("Tensor type unknown to einops {}".format(type(tensor)))
+RuntimeError: Tensor type unknown to einops <class 'tuple'>

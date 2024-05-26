@@ -1,0 +1,33 @@
+
+Traceback (most recent call last):
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 82, in <module>
+    main(args=args, config=config)
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py", line 70, in main
+    trainer.train(train_dataloader=train_dataloader,
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 25, in train
+    self.run_epoch(dataloader=train_dataloader, epoch=epoch, phase='train')
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/training/trainer.py", line 42, in run_epoch
+    output = self.model(image, caption_indices[:, :-1])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/base.py", line 37, in forward
+    output = self.caption_generator.forward(encoded_image=encoded_image, caption_indices=caption_indices)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/models/model_4.py", line 118, in forward
+    q = self.q(
+        ^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/teapula/anaconda3/lib/python3.11/site-packages/torch/nn/modules/linear.py", line 116, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (7168x384 and 256x128)

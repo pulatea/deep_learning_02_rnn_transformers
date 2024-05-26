@@ -1,0 +1,5 @@
+
+
+Epoch 01 | train:   1%|▍                                                       | 1/139 [00:28<1:05:46, 28.60s/batch, cross_entropy_loss: 8.1311]
+
+Epoch 01 | train:   1%|▊                                                         | 2/139 [00:35<36:46, 16.11s/batch, cross_entropy_loss: 6.3921]

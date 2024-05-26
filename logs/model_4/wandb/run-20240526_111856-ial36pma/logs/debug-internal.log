@@ -1,0 +1,114 @@
+2024-05-26 11:18:56,941 INFO    StreamThr :80493 [internal.py:wandb_internal():85] W&B internal server running at pid: 80493, started at: 2024-05-26 11:18:56.940492
+2024-05-26 11:18:56,942 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status
+2024-05-26 11:18:56,948 INFO    WriterThread:80493 [datastore.py:open_for_write():87] open: ./logs/model_4/wandb/run-20240526_111856-ial36pma/run-ial36pma.wandb
+2024-05-26 11:18:56,949 DEBUG   SenderThread:80493 [sender.py:send():378] send: header
+2024-05-26 11:18:56,965 DEBUG   SenderThread:80493 [sender.py:send():378] send: run
+2024-05-26 11:18:56,967 INFO    SenderThread:80493 [sender.py:_setup_resume():748] checking resume status for None/assignment_2/ial36pma
+2024-05-26 11:18:58,676 INFO    SenderThread:80493 [dir_watcher.py:__init__():211] watching files in: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files
+2024-05-26 11:18:58,676 INFO    SenderThread:80493 [sender.py:_start_run_threads():1123] run started: ial36pma with start time 1716715136.942689
+2024-05-26 11:18:58,692 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: check_version
+2024-05-26 11:18:58,693 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: check_version
+2024-05-26 11:18:59,257 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: run_start
+2024-05-26 11:18:59,268 DEBUG   HandlerThread:80493 [system_info.py:__init__():26] System info init
+2024-05-26 11:18:59,268 DEBUG   HandlerThread:80493 [system_info.py:__init__():41] System info init done
+2024-05-26 11:18:59,268 INFO    HandlerThread:80493 [system_monitor.py:start():194] Starting system monitor
+2024-05-26 11:18:59,268 INFO    SystemMonitor:80493 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-26 11:18:59,268 INFO    HandlerThread:80493 [system_monitor.py:probe():214] Collecting system info
+2024-05-26 11:18:59,269 INFO    SystemMonitor:80493 [interfaces.py:start():188] Started cpu monitoring
+2024-05-26 11:18:59,274 INFO    SystemMonitor:80493 [interfaces.py:start():188] Started disk monitoring
+2024-05-26 11:18:59,276 INFO    SystemMonitor:80493 [interfaces.py:start():188] Started gpuapple monitoring
+2024-05-26 11:18:59,278 INFO    SystemMonitor:80493 [interfaces.py:start():188] Started memory monitoring
+2024-05-26 11:18:59,278 INFO    SystemMonitor:80493 [interfaces.py:start():188] Started network monitoring
+2024-05-26 11:18:59,561 DEBUG   HandlerThread:80493 [system_info.py:probe():150] Probing system
+2024-05-26 11:18:59,564 DEBUG   HandlerThread:80493 [system_info.py:_probe_git():135] Probing git
+2024-05-26 11:18:59,573 DEBUG   HandlerThread:80493 [system_info.py:_probe_git():143] Probing git done
+2024-05-26 11:18:59,573 DEBUG   HandlerThread:80493 [system_info.py:probe():198] Probing system done
+2024-05-26 11:18:59,573 DEBUG   HandlerThread:80493 [system_monitor.py:probe():223] {'os': 'macOS-13.3-arm64-arm-64bit', 'python': '3.11.4', 'heartbeatAt': '2024-05-26T09:18:59.561478', 'startedAt': '2024-05-26T09:18:56.933763', 'docker': None, 'cuda': None, 'args': ('--device-id=0', '--config-file-path=./configs/config_model_4.yaml', '--experiment-name=model_4', '--num-epochs=2'), 'state': 'running', 'program': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py', 'codePathLocal': 'train.py', 'codePath': 'train.py', 'git': {'remote': 'https://github.com/pulatea/deep_learning_02_rnn_transformers.git', 'commit': '274c337154bad6c70d9d2dda02357aa369911814'}, 'email': 'tea.pula@students.unibe.ch', 'root': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2', 'host': 'stud-84-72.eduroam.unibe.ch', 'username': 'teapula', 'executable': '/Users/teapula/anaconda3/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'disk': {'/': {'total': 460.4317207336426, 'used': 346.18716049194336}}, 'gpuapple': {'type': 'Apple M2 Pro', 'vendor': 'sppci_vendor_Apple'}, 'memory': {'total': 16.0}}
+2024-05-26 11:18:59,573 INFO    HandlerThread:80493 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-26 11:18:59,573 INFO    HandlerThread:80493 [system_monitor.py:probe():227] Publishing system info
+2024-05-26 11:18:59,574 DEBUG   HandlerThread:80493 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-26 11:18:59,682 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/conda-environment.yaml
+2024-05-26 11:19:02,995 DEBUG   HandlerThread:80493 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-26 11:19:02,996 INFO    HandlerThread:80493 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-26 11:19:02,998 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:02,998 DEBUG   SenderThread:80493 [sender.py:send():378] send: files
+2024-05-26 11:19:02,998 INFO    SenderThread:80493 [sender.py:_save_file():1389] saving file wandb-metadata.json with policy now
+2024-05-26 11:19:03,297 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: python_packages
+2024-05-26 11:19:03,297 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: python_packages
+2024-05-26 11:19:03,297 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:19:03,298 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:19:03,695 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/conda-environment.yaml
+2024-05-26 11:19:03,695 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/wandb-metadata.json
+2024-05-26 11:19:03,695 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/requirements.txt
+2024-05-26 11:19:03,877 INFO    wandb-upload_0:80493 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp2bd57b2owandb/qch8p3p6-wandb-metadata.json
+2024-05-26 11:19:03,877 DEBUG   SenderThread:80493 [sender.py:send():378] send: telemetry
+2024-05-26 11:19:04,696 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:06,704 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:07,907 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:12,932 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:17,951 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:18,303 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:19:18,304 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:19:23,570 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:28,592 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:28,799 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/config.yaml
+2024-05-26 11:19:33,310 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:19:33,311 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:19:34,516 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:36,837 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:39,979 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:44,873 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:45,868 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:48,309 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:19:48,309 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:19:50,897 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:51,870 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:56,999 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:19:58,931 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:19:59,284 DEBUG   SystemMonitor:80493 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-26 11:19:59,286 DEBUG   SenderThread:80493 [sender.py:send():378] send: telemetry
+2024-05-26 11:19:59,286 DEBUG   SenderThread:80493 [sender.py:send():378] send: stats
+2024-05-26 11:20:02,301 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:02,946 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/config.yaml
+2024-05-26 11:20:03,314 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:20:03,314 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:20:06,963 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:08,097 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:12,989 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:13,529 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:18,315 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:20:18,316 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:20:18,592 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:19,014 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:23,615 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:27,054 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:29,160 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:29,291 DEBUG   SenderThread:80493 [sender.py:send():378] send: stats
+2024-05-26 11:20:33,322 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:20:33,323 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:20:34,622 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:35,079 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:39,645 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:41,098 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:44,980 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:48,327 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 11:20:48,328 DEBUG   SenderThread:80493 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 11:20:49,121 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:50,547 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:56,432 DEBUG   HandlerThread:80493 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 11:20:57,156 INFO    Thread-12 :80493 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240526_111856-ial36pma/files/output.log
+2024-05-26 11:20:58,413 WARNING StreamThr :80493 [internal.py:is_dead():413] Internal process exiting, parent pid 80480 disappeared
+2024-05-26 11:20:58,414 ERROR   StreamThr :80493 [internal.py:wandb_internal():151] Internal process shutdown.
+2024-05-26 11:20:58,440 INFO    HandlerThread:80493 [handler.py:finish():882] shutting down handler
+2024-05-26 11:20:58,440 INFO    HandlerThread:80493 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-26 11:20:58,440 DEBUG   SystemMonitor:80493 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-26 11:20:58,440 DEBUG   SystemMonitor:80493 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-26 11:20:58,442 INFO    HandlerThread:80493 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-26 11:20:58,442 INFO    SenderThread:80493 [sender.py:finish():1545] shutting down sender
+2024-05-26 11:20:58,442 INFO    WriterThread:80493 [datastore.py:close():296] close: ./logs/model_4/wandb/run-20240526_111856-ial36pma/run-ial36pma.wandb
+2024-05-26 11:20:58,443 INFO    HandlerThread:80493 [interfaces.py:finish():200] Joined disk monitor
+2024-05-26 11:20:58,443 INFO    HandlerThread:80493 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-26 11:20:58,443 INFO    HandlerThread:80493 [interfaces.py:finish():200] Joined memory monitor
+2024-05-26 11:20:58,444 INFO    HandlerThread:80493 [interfaces.py:finish():200] Joined network monitor
+2024-05-26 11:21:00,183 INFO    SenderThread:80493 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-26 11:21:00,767 INFO    MainThread:80493 [internal.py:handle_exit():75] Internal process exited

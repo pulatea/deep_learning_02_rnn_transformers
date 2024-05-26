@@ -1,0 +1,22 @@
+
+
+Epoch 01 | train:   1%| | 1/139 [00:29<1:08:54, 29.96s/batch, cross_entropy_loss:
+attention weights shape  torch.Size([256, 1, 25])
+output shape  torch.Size([256, 25, 128])
+context shape  torch.Size([256, 25, 128])
+attention weights shape  torch.Size([256, 1, 26])
+output shape  torch.Size([256, 26, 128])
+
+Epoch 01 | train:   1%| | 2/139 [00:36<37:11, 16.29s/batch, cross_entropy_loss: 7
+attention weights shape  torch.Size([256, 1, 27])
+output shape  torch.Size([256, 27, 128])
+
+Epoch 01 | train:   2%| | 3/139 [00:44<27:55, 12.32s/batch, cross_entropy_loss: 5
+attention weights shape  torch.Size([256, 1, 24])
+output shape  torch.Size([256, 24, 128])
+
+
+Epoch 01 | train:   3%| | 4/139 [00:59<24:03, 10.70s/batch, cross_entropy_loss: 6
+attention weights shape  torch.Size([256, 1, 34])
+output shape  torch.Size([256, 34, 128])
+

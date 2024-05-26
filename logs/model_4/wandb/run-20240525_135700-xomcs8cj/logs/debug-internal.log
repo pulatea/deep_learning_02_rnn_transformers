@@ -1,0 +1,79 @@
+2024-05-25 13:57:00,417 INFO    StreamThr :30558 [internal.py:wandb_internal():85] W&B internal server running at pid: 30558, started at: 2024-05-25 13:57:00.415789
+2024-05-25 13:57:00,418 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status
+2024-05-25 13:57:00,422 INFO    WriterThread:30558 [datastore.py:open_for_write():87] open: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/run-xomcs8cj.wandb
+2024-05-25 13:57:00,422 DEBUG   SenderThread:30558 [sender.py:send():378] send: header
+2024-05-25 13:57:00,442 DEBUG   SenderThread:30558 [sender.py:send():378] send: run
+2024-05-25 13:57:00,444 INFO    SenderThread:30558 [sender.py:_setup_resume():748] checking resume status for None/assignment_2/xomcs8cj
+2024-05-25 13:57:01,364 INFO    SenderThread:30558 [dir_watcher.py:__init__():211] watching files in: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files
+2024-05-25 13:57:01,364 INFO    SenderThread:30558 [sender.py:_start_run_threads():1123] run started: xomcs8cj with start time 1716638220.416669
+2024-05-25 13:57:01,373 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: check_version
+2024-05-25 13:57:01,373 DEBUG   SenderThread:30558 [sender.py:send_request():405] send_request: check_version
+2024-05-25 13:57:01,583 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: run_start
+2024-05-25 13:57:01,592 DEBUG   HandlerThread:30558 [system_info.py:__init__():26] System info init
+2024-05-25 13:57:01,592 DEBUG   HandlerThread:30558 [system_info.py:__init__():41] System info init done
+2024-05-25 13:57:01,592 INFO    HandlerThread:30558 [system_monitor.py:start():194] Starting system monitor
+2024-05-25 13:57:01,592 INFO    SystemMonitor:30558 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-25 13:57:01,592 INFO    HandlerThread:30558 [system_monitor.py:probe():214] Collecting system info
+2024-05-25 13:57:01,595 INFO    SystemMonitor:30558 [interfaces.py:start():188] Started cpu monitoring
+2024-05-25 13:57:01,597 INFO    SystemMonitor:30558 [interfaces.py:start():188] Started disk monitoring
+2024-05-25 13:57:01,599 INFO    SystemMonitor:30558 [interfaces.py:start():188] Started gpuapple monitoring
+2024-05-25 13:57:01,601 INFO    SystemMonitor:30558 [interfaces.py:start():188] Started memory monitoring
+2024-05-25 13:57:01,601 INFO    SystemMonitor:30558 [interfaces.py:start():188] Started network monitoring
+2024-05-25 13:57:01,865 DEBUG   HandlerThread:30558 [system_info.py:probe():150] Probing system
+2024-05-25 13:57:01,868 DEBUG   HandlerThread:30558 [system_info.py:_probe_git():135] Probing git
+2024-05-25 13:57:01,876 DEBUG   HandlerThread:30558 [system_info.py:_probe_git():143] Probing git done
+2024-05-25 13:57:01,876 DEBUG   HandlerThread:30558 [system_info.py:probe():198] Probing system done
+2024-05-25 13:57:01,876 DEBUG   HandlerThread:30558 [system_monitor.py:probe():223] {'os': 'macOS-13.3-arm64-arm-64bit', 'python': '3.11.4', 'heartbeatAt': '2024-05-25T11:57:01.865431', 'startedAt': '2024-05-25T11:57:00.404868', 'docker': None, 'cuda': None, 'args': ('--device-id=0', '--config-file-path=./configs/config_model_4.yaml', '--experiment-name=model_4', '--num-epochs=2'), 'state': 'running', 'program': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py', 'codePathLocal': 'train.py', 'codePath': 'train.py', 'git': {'remote': 'https://github.com/pulatea/deep_learning_02_rnn_transformers.git', 'commit': '274c337154bad6c70d9d2dda02357aa369911814'}, 'email': 'tea.pula@students.unibe.ch', 'root': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2', 'host': 'Teas-MacBook-Pro.local', 'username': 'teapula', 'executable': '/Users/teapula/anaconda3/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'disk': {'/': {'total': 460.4317207336426, 'used': 344.3606300354004}}, 'gpuapple': {'type': 'Apple M2 Pro', 'vendor': 'sppci_vendor_Apple'}, 'memory': {'total': 16.0}}
+2024-05-25 13:57:01,877 INFO    HandlerThread:30558 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-25 13:57:01,877 INFO    HandlerThread:30558 [system_monitor.py:probe():227] Publishing system info
+2024-05-25 13:57:01,877 DEBUG   HandlerThread:30558 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-25 13:57:02,370 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/conda-environment.yaml
+2024-05-25 13:57:05,225 DEBUG   HandlerThread:30558 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-25 13:57:05,225 INFO    HandlerThread:30558 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-25 13:57:05,228 DEBUG   SenderThread:30558 [sender.py:send():378] send: files
+2024-05-25 13:57:05,228 INFO    SenderThread:30558 [sender.py:_save_file():1389] saving file wandb-metadata.json with policy now
+2024-05-25 13:57:05,384 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/conda-environment.yaml
+2024-05-25 13:57:05,385 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/wandb-metadata.json
+2024-05-25 13:57:05,528 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: python_packages
+2024-05-25 13:57:05,528 DEBUG   SenderThread:30558 [sender.py:send_request():405] send_request: python_packages
+2024-05-25 13:57:05,528 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-25 13:57:05,529 DEBUG   SenderThread:30558 [sender.py:send_request():405] send_request: stop_status
+2024-05-25 13:57:05,529 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:05,850 DEBUG   SenderThread:30558 [sender.py:send():378] send: telemetry
+2024-05-25 13:57:05,898 INFO    wandb-upload_0:30558 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmp0ixx_9o3wandb/gkocszuj-wandb-metadata.json
+2024-05-25 13:57:06,390 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/requirements.txt
+2024-05-25 13:57:06,391 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/output.log
+2024-05-25 13:57:08,396 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/output.log
+2024-05-25 13:57:10,866 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:15,884 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:20,535 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-25 13:57:20,535 DEBUG   SenderThread:30558 [sender.py:send_request():405] send_request: stop_status
+2024-05-25 13:57:21,781 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:26,813 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:31,841 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:32,523 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/config.yaml
+2024-05-25 13:57:35,540 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-25 13:57:35,541 DEBUG   SenderThread:30558 [sender.py:send_request():405] send_request: stop_status
+2024-05-25 13:57:36,544 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/output.log
+2024-05-25 13:57:37,939 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:42,575 INFO    Thread-12 :30558 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/files/output.log
+2024-05-25 13:57:43,504 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:47,704 INFO    cpu       :30558 [interfaces.py:monitor():138] Process cpu has exited.
+2024-05-25 13:57:47,704 DEBUG   SystemMonitor:30558 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-25 13:57:47,704 DEBUG   SystemMonitor:30558 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-25 13:57:47,704 DEBUG   SystemMonitor:30558 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-25 13:57:47,705 DEBUG   SenderThread:30558 [sender.py:send():378] send: telemetry
+2024-05-25 13:57:47,705 DEBUG   SenderThread:30558 [sender.py:send():378] send: stats
+2024-05-25 13:57:48,710 DEBUG   HandlerThread:30558 [handler.py:handle_request():158] handle_request: status_report
+2024-05-25 13:57:49,620 WARNING StreamThr :30558 [internal.py:is_dead():413] Internal process exiting, parent pid 30545 disappeared
+2024-05-25 13:57:49,620 ERROR   StreamThr :30558 [internal.py:wandb_internal():151] Internal process shutdown.
+2024-05-25 13:57:49,715 INFO    SenderThread:30558 [sender.py:finish():1545] shutting down sender
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [handler.py:finish():882] shutting down handler
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [interfaces.py:finish():200] Joined disk monitor
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-25 13:57:49,716 INFO    WriterThread:30558 [datastore.py:close():296] close: ./logs/model_4/wandb/run-20240525_135700-xomcs8cj/run-xomcs8cj.wandb
+2024-05-25 13:57:49,716 INFO    HandlerThread:30558 [interfaces.py:finish():200] Joined memory monitor
+2024-05-25 13:57:49,717 INFO    HandlerThread:30558 [interfaces.py:finish():200] Joined network monitor
+2024-05-25 13:57:49,785 INFO    MainThread:30558 [internal.py:handle_exit():75] Internal process exited
