@@ -96,29 +96,23 @@ class CaptionGenerator(BaseCaptionGenerator):
             embeddings = self.embedding(caption_indices)
             if encoded_image is not None:
                 embeddings, _ = pack([encoded_image, embeddings], 'batch * embedding_dim')
-
         return embeddings
 
     def forward(self, encoded_image, caption_indices, hidden_state=None):
         """Forward method.
-
         :param encoded_image: torch.tensor of the shape [batch_size, *] or None
         :param caption_indices: torch.tensor of the shape [batch_size, sequence_length] or None
         :param args: e.g., hidden state
-
         :return: output dict at least with 'logits' and 'indices' keys,
             where: logits is the torch.tensor of the shape [batch_size, vocabulary_size, sequence_length]
                    indices is the torch.tensor of the shape [batch_size, sequence_length]
         """
         if encoded_image is not None and caption_indices is not None:
             caption_indices = caption_indices[:, 1:]  # the encoded image will be used instead of the <SOS> token
-
         embeddings = self._get_embeddings(encoded_image=encoded_image, caption_indices=caption_indices)
-
         output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
         logits = self.to_logits(output)
         logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
-
         return {'logits': logits, 'indices': logits.argmax(dim=-2), 'hidden_state': hidden_state}
 
     def generate_caption_indices(self, encoded_image, sos_token_index, eos_token_index, max_length):
@@ -131,18 +125,35 @@ class CaptionGenerator(BaseCaptionGenerator):
 
         :return: caption indices (list of the length <= max_length)
         """
-        caption_indices = []
+        # Initialize the list to store the generated caption indices
+        caption_indices = [sos_token_index]
 
-        output = self.forward(encoded_image, caption_indices=None, hidden_state=None)
+        # Prepare the hidden state using the encoded image
+        hidden_state = self.init_hidden_state(encoded_image)
+
+        # Start the generation process
         for _ in range(max_length):
-            predicted_index = output['indices']
+            # Get the last generated token (the most recent token)
+            last_token = torch.tensor([[caption_indices[-1]]], device=encoded_image.device)
 
-            caption_indices.append(predicted_index.item())
-            if predicted_index.item() == eos_token_index:
+            # Generate the embeddings for the last token
+            embeddings = self._get_embeddings(encoded_image=None, caption_indices=last_token)
+
+            # Perform a forward pass through the RNN using the embeddings
+            output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
+
+            # Calculate the logits for the current output
+            logits = self.to_logits(output)
+            logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
+
+            # Get the index of the predicted token
+            predicted_index = logits.argmax(dim=-2).item()
+
+            # Append the predicted token to the caption indices
+            caption_indices.append(predicted_index)
+
+            # If the predicted token is the EOS token, stop the generation process
+            if predicted_index == eos_token_index:
                 break
-
-            output = self.forward(encoded_image=None,
-                                  caption_indices=predicted_index,
-                                  hidden_state=output['hidden_state'])
 
         return caption_indices

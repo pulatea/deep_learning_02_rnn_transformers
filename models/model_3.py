@@ -81,13 +81,9 @@ class CaptionGenerator(BaseCaptionGenerator):
             hidden_size=self.hidden_dim,
             num_layers=self.num_layers,
             bias=True,
-            batch_first=True,
-            bidirectional=True)
+            batch_first=True)
 
         self.to_logits = torch.nn.Linear(in_features=self.hidden_dim, out_features=self.vocabulary_size)
-        # Linear layers to transform the encoded image features to LSTM initial states
-        self.hidden_fc = nn.Linear(self.embedding_dim, self.hidden_dim * self.num_directions)
-        self.cell_fc = nn.Linear(self.embedding_dim, self.hidden_dim * self.num_directions)
 
     def freeze(self):
         """Sets the requires_grad parameter to False for some model parameters."""
@@ -100,64 +96,41 @@ class CaptionGenerator(BaseCaptionGenerator):
             embeddings = self.embedding(caption_indices)
             if encoded_image is not None:
                 embeddings, _ = pack([encoded_image, embeddings], 'batch * embedding_dim')
-
         return embeddings
 
     def forward(self, encoded_image, caption_indices, hidden_state=None):
         """Forward method.
-
         :param encoded_image: torch.tensor of the shape [batch_size, *] or None
         :param caption_indices: torch.tensor of the shape [batch_size, sequence_length] or None
         :param args: e.g., hidden state
-
         :return: output dict at least with 'logits' and 'indices' keys,
             where: logits is the torch.tensor of the shape [batch_size, vocabulary_size, sequence_length]
                    indices is the torch.tensor of the shape [batch_size, sequence_length]
         """
         if encoded_image is not None and caption_indices is not None:
             caption_indices = caption_indices[:, 1:]  # the encoded image will be used instead of the <SOS> token
-
         embeddings = self._get_embeddings(encoded_image=encoded_image, caption_indices=caption_indices)
-
-        if hidden_state is None:
-            hidden_state = self.init_hidden_state(encoded_image)
-
         output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
         logits = self.to_logits(output)
         logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
-
         return {'logits': logits, 'indices': logits.argmax(dim=-2), 'hidden_state': hidden_state}
-
-    def init_hidden_state(self, encoded_image):
-        batch_size = encoded_image.size(0)
-        hidden_state = self.hidden_fc(encoded_image).view(self.num_layers * self.num_directions, batch_size,
-                                                          self.hidden_dim)
-        cell_state = self.cell_fc(encoded_image).view(self.num_layers * self.num_directions, batch_size,
-                                                      self.hidden_dim)
-        return (hidden_state, cell_state)
 
     def generate_caption_indices(self, encoded_image, sos_token_index, eos_token_index, max_length):
         """Generates caption indices like torch.tensor([1, 23, 5, 8, 2]).
-
         :param encoded_image: torch.tensor of the shape [1, *]
         :param sos_token_index: index of the "start of sequence" token (int)
         :param eos_token_index: index of the "end of sequence" token (int)
         :param max_length: maximum caption length (int)
-
         :return: caption indices (list of the length <= max_length)
         """
         caption_indices = []
-
         output = self.forward(encoded_image, caption_indices=None, hidden_state=None)
         for _ in range(max_length):
             predicted_index = output['indices']
-
             caption_indices.append(predicted_index.item())
             if predicted_index.item() == eos_token_index:
                 break
-
             output = self.forward(encoded_image=None,
                                   caption_indices=predicted_index,
                                   hidden_state=output['hidden_state'])
-
         return caption_indices

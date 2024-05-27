@@ -476,3 +476,12 @@ Epoch 03 | train: 100%|█| 139/139 [15:34<00:00,  5.71s/batch, cross_entropy_lo
 
 
 
+
+
+
+
+
+
+
+
+Epoch 03 | val: 100%|█| 10/10 [01:26<00:00,  6.28s/batch, cross_entropy_loss:

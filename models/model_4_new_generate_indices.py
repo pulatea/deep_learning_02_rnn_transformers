@@ -47,13 +47,14 @@ class ImageEncoder(BaseImageEncoder):
             param.requires_grad = False
 
     def forward(self, image):
-        scale = 1
+        scale: int = 1
 
         # extracting image features from DINOv2
         resized_image = F.interpolate(image, size=(scale * 224, scale * 224), mode="bilinear", align_corners=False)
         outputs = self.dino.get_intermediate_layers(resized_image, n=1, reshape=True, return_class_token=True)[0]
 
         # extracting the <CLS> token representation
+        # output shape is 256 x 384
         cls_token, patch_tokens = outputs[1], outputs[0]
 
         # encoding the extracted <CLS> token to the dimension of the embedding
@@ -62,35 +63,27 @@ class ImageEncoder(BaseImageEncoder):
         return encoding
 
 
-# DECODER
 class CaptionGenerator(BaseCaptionGenerator):
     def __init__(self, vocabulary_size, embedding_dim, hidden_dim, num_layers):
         super().__init__(vocabulary_size=vocabulary_size)
 
         self.embedding_dim = embedding_dim
+
         self.hidden_dim = hidden_dim
         self.num_layers = num_layers
 
-        self.embedding = nn.Sequential(
-            nn.Embedding(num_embeddings=self.vocabulary_size, embedding_dim=self.embedding_dim),
-            nn.Dropout(0.5)
-        )
-
+        self.embedding = torch.nn.Sequential(torch.nn.Embedding(num_embeddings=self.vocabulary_size,
+                                                                embedding_dim=self.embedding_dim),
+                                             torch.nn.Dropout(0.5))
+        # replaced the RNN with the LSTM (Long Short Term Memory) gated recurrency
         self.rnn = nn.LSTM(
             input_size=self.embedding_dim,
             hidden_size=self.hidden_dim,
             num_layers=self.num_layers,
             bias=True,
-            batch_first=True
-        )
+            batch_first=True)
 
-        self.to_logits = nn.Linear(in_features=self.hidden_dim, out_features=self.vocabulary_size)
-
-        # Attention layers
-        self.q = nn.Linear(self.hidden_dim, self.hidden_dim)
-        self.k = nn.Linear(self.hidden_dim, self.hidden_dim)
-        self.v = nn.Linear(self.hidden_dim, self.hidden_dim)
-        self.attn_combine = nn.Linear(self.hidden_dim * 2, self.hidden_dim)
+        self.to_logits = torch.nn.Linear(in_features=self.hidden_dim, out_features=self.vocabulary_size)
 
     def freeze(self):
         """Sets the requires_grad parameter to False for some model parameters."""
@@ -103,51 +96,23 @@ class CaptionGenerator(BaseCaptionGenerator):
             embeddings = self.embedding(caption_indices)
             if encoded_image is not None:
                 embeddings, _ = pack([encoded_image, embeddings], 'batch * embedding_dim')
-
         return embeddings
 
     def forward(self, encoded_image, caption_indices, hidden_state=None):
         """Forward method.
-
         :param encoded_image: torch.tensor of the shape [batch_size, *] or None
         :param caption_indices: torch.tensor of the shape [batch_size, sequence_length] or None
-        :param hidden_state: hidden state of the RNN
+        :param args: e.g., hidden state
         :return: output dict at least with 'logits' and 'indices' keys,
             where: logits is the torch.tensor of the shape [batch_size, vocabulary_size, sequence_length]
                    indices is the torch.tensor of the shape [batch_size, sequence_length]
         """
         if encoded_image is not None and caption_indices is not None:
             caption_indices = caption_indices[:, 1:]  # the encoded image will be used instead of the <SOS> token
-
         embeddings = self._get_embeddings(encoded_image=encoded_image, caption_indices=caption_indices)
-
-        # Initialize hidden state if not provided
-        if hidden_state is None:
-            hidden_state = (
-                torch.zeros(self.num_layers, embeddings.size(0), self.hidden_dim).to(embeddings.device),
-                torch.zeros(self.num_layers, embeddings.size(0), self.hidden_dim).to(embeddings.device)
-            )
-
         output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
-
-        # Compute attention
-        q = self.q(hidden_state[0][-1]).unsqueeze(1)  # Use the last layer's hidden state and add sequence dimension
-        k = self.k(output)
-        v = self.v(output)
-        attn_weights = F.softmax(torch.bmm(q, k.permute(0, 2, 1)), dim=2)  # [batch_size, 1, seq_length]
-
-        # Get the context vector
-        context = torch.bmm(attn_weights, v)  # [batch_size, 1, hidden_dim]
-        context = context.expand(-1, output.size(1), -1)  # Expand context to match sequence length of output
-
-        # Combine context with RNN output
-        output = torch.cat((output, context), 2)
-        output = self.attn_combine(output)
-        output = F.relu(output)
-
         logits = self.to_logits(output)
         logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
-
         return {'logits': logits, 'indices': logits.argmax(dim=-2), 'hidden_state': hidden_state}
 
     def generate_caption_indices(self, encoded_image, sos_token_index, eos_token_index, max_length):
@@ -157,27 +122,38 @@ class CaptionGenerator(BaseCaptionGenerator):
         :param sos_token_index: index of the "start of sequence" token (int)
         :param eos_token_index: index of the "end of sequence" token (int)
         :param max_length: maximum caption length (int)
+
         :return: caption indices (list of the length <= max_length)
         """
-        caption_indices = []
+        # Initialize the list to store the generated caption indices
+        caption_indices = [sos_token_index]
 
-        # Initialize hidden state
-        hidden_state = (
-            torch.zeros(self.num_layers, encoded_image.size(0), self.hidden_dim).to(encoded_image.device),
-            torch.zeros(self.num_layers, encoded_image.size(0), self.hidden_dim).to(encoded_image.device)
-        )
+        # Prepare the hidden state using the encoded image
+        hidden_state = self.init_hidden_state(encoded_image)
 
-        # Start with the <SOS> token
-        input_index = torch.tensor([[sos_token_index]]).to(encoded_image.device)
+        # Start the generation process
         for _ in range(max_length):
-            output = self.forward(encoded_image, caption_indices=input_index, hidden_state=hidden_state)
-            predicted_index = output['indices']
+            # Get the last generated token (the most recent token)
+            last_token = torch.tensor([[caption_indices[-1]]], device=encoded_image.device)
 
-            caption_indices.append(predicted_index.item())
-            if predicted_index.item() == eos_token_index:
+            # Generate the embeddings for the last token
+            embeddings = self._get_embeddings(encoded_image=None, caption_indices=last_token)
+
+            # Perform a forward pass through the RNN using the embeddings
+            output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
+
+            # Calculate the logits for the current output
+            logits = self.to_logits(output)
+            logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
+
+            # Get the index of the predicted token
+            predicted_index = logits.argmax(dim=-2).item()
+
+            # Append the predicted token to the caption indices
+            caption_indices.append(predicted_index)
+
+            # If the predicted token is the EOS token, stop the generation process
+            if predicted_index == eos_token_index:
                 break
-
-            input_index = predicted_index.unsqueeze(0)
-            hidden_state = output['hidden_state']
 
         return caption_indices

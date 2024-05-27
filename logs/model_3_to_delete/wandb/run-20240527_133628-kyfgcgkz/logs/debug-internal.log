@@ -1,0 +1,75 @@
+2024-05-27 13:36:28,935 INFO    StreamThr :49462 [internal.py:wandb_internal():85] W&B internal server running at pid: 49462, started at: 2024-05-27 13:36:28.934872
+2024-05-27 13:36:28,936 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status
+2024-05-27 13:36:28,940 INFO    WriterThread:49462 [datastore.py:open_for_write():87] open: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/run-kyfgcgkz.wandb
+2024-05-27 13:36:28,940 DEBUG   SenderThread:49462 [sender.py:send():378] send: header
+2024-05-27 13:36:28,954 DEBUG   SenderThread:49462 [sender.py:send():378] send: run
+2024-05-27 13:36:28,956 INFO    SenderThread:49462 [sender.py:_setup_resume():748] checking resume status for None/assignment_2/kyfgcgkz
+2024-05-27 13:36:29,800 INFO    SenderThread:49462 [dir_watcher.py:__init__():211] watching files in: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files
+2024-05-27 13:36:29,800 INFO    SenderThread:49462 [sender.py:_start_run_threads():1123] run started: kyfgcgkz with start time 1716809788.936261
+2024-05-27 13:36:29,805 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: check_version
+2024-05-27 13:36:29,805 DEBUG   SenderThread:49462 [sender.py:send_request():405] send_request: check_version
+2024-05-27 13:36:30,083 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: run_start
+2024-05-27 13:36:30,089 DEBUG   HandlerThread:49462 [system_info.py:__init__():26] System info init
+2024-05-27 13:36:30,089 DEBUG   HandlerThread:49462 [system_info.py:__init__():41] System info init done
+2024-05-27 13:36:30,089 INFO    HandlerThread:49462 [system_monitor.py:start():194] Starting system monitor
+2024-05-27 13:36:30,089 INFO    SystemMonitor:49462 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-27 13:36:30,089 INFO    HandlerThread:49462 [system_monitor.py:probe():214] Collecting system info
+2024-05-27 13:36:30,090 INFO    SystemMonitor:49462 [interfaces.py:start():188] Started cpu monitoring
+2024-05-27 13:36:30,091 INFO    SystemMonitor:49462 [interfaces.py:start():188] Started disk monitoring
+2024-05-27 13:36:30,092 INFO    SystemMonitor:49462 [interfaces.py:start():188] Started gpuapple monitoring
+2024-05-27 13:36:30,094 INFO    SystemMonitor:49462 [interfaces.py:start():188] Started memory monitoring
+2024-05-27 13:36:30,094 INFO    SystemMonitor:49462 [interfaces.py:start():188] Started network monitoring
+2024-05-27 13:36:30,528 DEBUG   HandlerThread:49462 [system_info.py:probe():150] Probing system
+2024-05-27 13:36:30,532 DEBUG   HandlerThread:49462 [system_info.py:_probe_git():135] Probing git
+2024-05-27 13:36:30,543 DEBUG   HandlerThread:49462 [system_info.py:_probe_git():143] Probing git done
+2024-05-27 13:36:30,543 DEBUG   HandlerThread:49462 [system_info.py:probe():198] Probing system done
+2024-05-27 13:36:30,543 DEBUG   HandlerThread:49462 [system_monitor.py:probe():223] {'os': 'macOS-13.3-arm64-arm-64bit', 'python': '3.11.4', 'heartbeatAt': '2024-05-27T11:36:30.529051', 'startedAt': '2024-05-27T11:36:28.928092', 'docker': None, 'cuda': None, 'args': ('--device-id=0', '--config-file-path=./configs/config_model_2.yaml', '--experiment-name=model_3_to_delete', '--num-epochs=2'), 'state': 'running', 'program': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2/train.py', 'codePathLocal': 'train.py', 'codePath': 'train.py', 'git': {'remote': 'https://github.com/pulatea/deep_learning_02_rnn_transformers.git', 'commit': '957af8800b74d577dc213305f6220f5967b5a418'}, 'email': 'tea.pula@students.unibe.ch', 'root': '/Users/teapula/Documents/AIM/Deep_Learning/assignment_2', 'host': 'stud-84-72.eduroam.unibe.ch', 'username': 'teapula', 'executable': '/Users/teapula/anaconda3/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'disk': {'/': {'total': 460.4317207336426, 'used': 344.10646057128906}}, 'gpuapple': {'type': 'Apple M2 Pro', 'vendor': 'sppci_vendor_Apple'}, 'memory': {'total': 16.0}}
+2024-05-27 13:36:30,543 INFO    HandlerThread:49462 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-27 13:36:30,543 INFO    HandlerThread:49462 [system_monitor.py:probe():227] Publishing system info
+2024-05-27 13:36:30,543 DEBUG   HandlerThread:49462 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-27 13:36:30,801 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/conda-environment.yaml
+2024-05-27 13:36:34,270 DEBUG   HandlerThread:49462 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-27 13:36:34,270 INFO    HandlerThread:49462 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-27 13:36:34,273 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:36:34,273 DEBUG   SenderThread:49462 [sender.py:send():378] send: files
+2024-05-27 13:36:34,273 INFO    SenderThread:49462 [sender.py:_save_file():1389] saving file wandb-metadata.json with policy now
+2024-05-27 13:36:34,504 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: python_packages
+2024-05-27 13:36:34,504 DEBUG   SenderThread:49462 [sender.py:send_request():405] send_request: python_packages
+2024-05-27 13:36:34,504 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-27 13:36:34,504 DEBUG   SenderThread:49462 [sender.py:send_request():405] send_request: stop_status
+2024-05-27 13:36:34,697 DEBUG   SenderThread:49462 [sender.py:send():378] send: telemetry
+2024-05-27 13:36:34,822 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/conda-environment.yaml
+2024-05-27 13:36:34,822 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/requirements.txt
+2024-05-27 13:36:34,822 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/wandb-metadata.json
+2024-05-27 13:36:34,822 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/output.log
+2024-05-27 13:36:34,839 INFO    wandb-upload_0:49462 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpuuydrj29wandb/mdn0j7mb-wandb-metadata.json
+2024-05-27 13:36:36,830 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/output.log
+2024-05-27 13:36:39,720 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:36:44,737 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:36:49,510 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-27 13:36:49,511 DEBUG   SenderThread:49462 [sender.py:send_request():405] send_request: stop_status
+2024-05-27 13:36:49,864 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:36:54,900 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:36:59,924 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:37:00,958 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/config.yaml
+2024-05-27 13:37:04,517 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-27 13:37:04,518 DEBUG   SenderThread:49462 [sender.py:send_request():405] send_request: stop_status
+2024-05-27 13:37:04,979 INFO    Thread-12 :49462 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/files/output.log
+2024-05-27 13:37:05,746 DEBUG   HandlerThread:49462 [handler.py:handle_request():158] handle_request: status_report
+2024-05-27 13:37:10,114 WARNING StreamThr :49462 [internal.py:is_dead():413] Internal process exiting, parent pid 49448 disappeared
+2024-05-27 13:37:10,114 ERROR   StreamThr :49462 [internal.py:wandb_internal():151] Internal process shutdown.
+2024-05-27 13:37:10,181 INFO    memory    :49462 [interfaces.py:monitor():138] Process proc.memory.rssMB has exited.
+2024-05-27 13:37:10,182 DEBUG   SystemMonitor:49462 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-27 13:37:10,182 DEBUG   SystemMonitor:49462 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-27 13:37:10,182 DEBUG   SystemMonitor:49462 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [handler.py:finish():882] shutting down handler
+2024-05-27 13:37:10,183 INFO    WriterThread:49462 [datastore.py:close():296] close: ./logs/model_3_to_delete/wandb/run-20240527_133628-kyfgcgkz/run-kyfgcgkz.wandb
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-27 13:37:10,183 DEBUG   SenderThread:49462 [sender.py:send():378] send: telemetry
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-27 13:37:10,183 INFO    SenderThread:49462 [sender.py:finish():1545] shutting down sender
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [interfaces.py:finish():200] Joined disk monitor
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [interfaces.py:finish():200] Joined memory monitor
+2024-05-27 13:37:10,183 INFO    HandlerThread:49462 [interfaces.py:finish():200] Joined network monitor
+2024-05-27 13:37:10,269 INFO    MainThread:49462 [internal.py:handle_exit():75] Internal process exited

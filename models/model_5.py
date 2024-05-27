@@ -116,15 +116,44 @@ class CaptionGenerator(BaseCaptionGenerator):
         return {'logits': logits, 'indices': logits.argmax(dim=-2)}
 
     def generate_caption_indices(self, encoded_image, sos_token_index, eos_token_index, max_length):
-        caption_indices = []
+        """Generates caption indices like torch.tensor([1, 23, 5, 8, 2]).
 
-        output = self.forward(encoded_image, caption_indices=None)
+        :param encoded_image: torch.tensor of the shape [1, *]
+        :param sos_token_index: index of the "start of sequence" token (int)
+        :param eos_token_index: index of the "end of sequence" token (int)
+        :param max_length: maximum caption length (int)
+
+        :return: caption indices (list of the length <= max_length)
+        """
+        # Initialize the list to store the generated caption indices
+        caption_indices = [sos_token_index]
+
+        # Prepare the hidden state using the encoded image
+        hidden_state = self.init_hidden_state(encoded_image)
+
+        # Start the generation process
         for _ in range(max_length):
-            predicted_index = output['indices']
-            caption_indices.append(predicted_index.item())
-            if predicted_index.item() == eos_token_index:
-                break
+            # Get the last generated token (the most recent token)
+            last_token = torch.tensor([[caption_indices[-1]]], device=encoded_image.device)
 
-            output = self.forward(encoded_image=None, caption_indices=predicted_index)
+            # Generate the embeddings for the last token
+            embeddings = self._get_embeddings(encoded_image=None, caption_indices=last_token)
+
+            # Perform a forward pass through the RNN using the embeddings
+            output, hidden_state = self.rnn(input=embeddings, hx=hidden_state)
+
+            # Calculate the logits for the current output
+            logits = self.to_logits(output)
+            logits = rearrange(logits, 'batch sequence_length vocabulary_size -> batch vocabulary_size sequence_length')
+
+            # Get the index of the predicted token
+            predicted_index = logits.argmax(dim=-2).item()
+
+            # Append the predicted token to the caption indices
+            caption_indices.append(predicted_index)
+
+            # If the predicted token is the EOS token, stop the generation process
+            if predicted_index == eos_token_index:
+                break
 
         return caption_indices

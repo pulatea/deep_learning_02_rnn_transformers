@@ -1740,3 +1740,203 @@
 2024-05-26 18:06:48,269 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
 2024-05-26 18:06:53,203 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
 2024-05-26 18:06:53,436 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:06:58,783 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:06:59,230 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:02,035 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 18:07:02,035 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 18:07:04,366 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:05,259 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:09,383 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:12,283 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:12,645 DEBUG   SenderThread:22725 [sender.py:send():378] send: stats
+2024-05-26 18:07:14,652 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:17,040 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 18:07:17,040 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 18:07:18,316 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:20,300 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:24,345 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:25,869 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:30,377 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:31,287 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:32,045 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 18:07:32,045 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 18:07:36,407 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:07:37,255 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:42,274 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:42,646 DEBUG   SenderThread:22725 [sender.py:send():378] send: stats
+2024-05-26 18:07:47,046 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 18:07:47,046 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 18:07:48,247 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:53,263 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:07:58,276 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:08:02,050 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: stop_status
+2024-05-26 18:08:02,051 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: stop_status
+2024-05-26 18:08:03,312 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:08:08,335 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:08:12,653 DEBUG   SenderThread:22725 [sender.py:send():378] send: stats
+2024-05-26 18:08:13,658 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:08:14,584 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:08:14,715 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: log_artifact
+2024-05-26 18:08:14,715 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: log_artifact
+2024-05-26 18:08:14,727 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: partial_history
+2024-05-26 18:08:15,460 INFO    wandb-upload_4:22725 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp9gvkp8ak
+2024-05-26 18:08:15,460 INFO    wandb-upload_5:22725 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp4uj_hjgl
+2024-05-26 18:08:15,588 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_created():271] file/dir created: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/val_3_8414cae5351d0ce719b2.table.json
+2024-05-26 18:08:15,588 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table
+2024-05-26 18:08:15,741 INFO    wandb-upload_3:22725 [upload_job.py:push():88] Uploaded file /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmp56u4mr73
+2024-05-26 18:08:15,866 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 18:08:15,998 INFO    wandb-upload_0:22725 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmplv5wz4nzwandb/9nymtg2c-media/table/val_3_8414cae5351d0ce719b2.table.json
+2024-05-26 18:08:16,660 INFO    SenderThread:22725 [sender.py:send_request_log_artifact():1455] logged artifact run-r0njlte6-val - {'id': 'QXJ0aWZhY3Q6ODUwNDQ4OTMx', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTI1Mzk2Nw==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODUwNDM4NjY5', 'versionIndex': 1}}}
+2024-05-26 18:08:16,660 DEBUG   SenderThread:22725 [sender.py:send():378] send: files
+2024-05-26 18:08:16,660 INFO    SenderThread:22725 [sender.py:_save_file():1389] saving file media/table/val_3_8414cae5351d0ce719b2.table.json with policy now
+2024-05-26 18:08:16,661 DEBUG   SenderThread:22725 [sender.py:send():378] send: telemetry
+2024-05-26 18:08:16,661 DEBUG   SenderThread:22725 [sender.py:send():378] send: exit
+2024-05-26 18:08:16,661 INFO    SenderThread:22725 [sender.py:send_exit():585] handling exit code: 0
+2024-05-26 18:08:16,665 INFO    SenderThread:22725 [sender.py:send_exit():587] handling runtime: 3332
+2024-05-26 18:08:16,666 INFO    SenderThread:22725 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 18:08:16,666 INFO    SenderThread:22725 [sender.py:send_exit():593] send defer
+2024-05-26 18:08:16,666 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 18:08:16,667 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,667 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 0
+2024-05-26 18:08:16,667 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,667 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-05-26 18:08:16,667 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 1
+2024-05-26 18:08:16,669 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,669 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 1
+2024-05-26 18:08:16,669 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,669 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-05-26 18:08:16,669 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 2
+2024-05-26 18:08:16,669 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,669 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 2
+2024-05-26 18:08:16,669 INFO    HandlerThread:22725 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-26 18:08:16,669 DEBUG   SystemMonitor:22725 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-26 18:08:16,670 DEBUG   SystemMonitor:22725 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-26 18:08:16,670 INFO    HandlerThread:22725 [interfaces.py:finish():200] Joined cpu monitor
+2024-05-26 18:08:16,671 INFO    HandlerThread:22725 [interfaces.py:finish():200] Joined disk monitor
+2024-05-26 18:08:16,671 INFO    HandlerThread:22725 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-05-26 18:08:16,671 INFO    HandlerThread:22725 [interfaces.py:finish():200] Joined memory monitor
+2024-05-26 18:08:16,671 INFO    HandlerThread:22725 [interfaces.py:finish():200] Joined network monitor
+2024-05-26 18:08:16,671 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,671 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-05-26 18:08:16,671 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 3
+2024-05-26 18:08:16,671 DEBUG   SenderThread:22725 [sender.py:send():378] send: stats
+2024-05-26 18:08:16,671 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,672 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 3
+2024-05-26 18:08:16,672 DEBUG   SenderThread:22725 [sender.py:send():378] send: history
+2024-05-26 18:08:16,672 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: summary_record
+2024-05-26 18:08:16,673 INFO    SenderThread:22725 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 18:08:16,673 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,673 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-05-26 18:08:16,673 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 4
+2024-05-26 18:08:16,673 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,673 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 4
+2024-05-26 18:08:16,673 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,673 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-05-26 18:08:16,673 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 5
+2024-05-26 18:08:16,673 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,673 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 5
+2024-05-26 18:08:16,674 DEBUG   SenderThread:22725 [sender.py:send():378] send: summary
+2024-05-26 18:08:16,674 INFO    SenderThread:22725 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-05-26 18:08:16,674 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,674 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-05-26 18:08:16,674 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 6
+2024-05-26 18:08:16,674 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,674 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 6
+2024-05-26 18:08:16,674 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,674 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-05-26 18:08:16,677 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: status_report
+2024-05-26 18:08:16,857 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 7
+2024-05-26 18:08:16,857 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:16,857 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 7
+2024-05-26 18:08:16,857 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:16,857 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-05-26 18:08:16,872 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 18:08:17,140 INFO    wandb-upload_2:22725 [upload_job.py:push():130] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmplv5wz4nzwandb/ybh74zg1-media/table/val_3_8414cae5351d0ce719b2.table.json
+2024-05-26 18:08:17,595 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/wandb-summary.json
+2024-05-26 18:08:17,596 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/config.yaml
+2024-05-26 18:08:18,432 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 8
+2024-05-26 18:08:18,432 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 18:08:18,432 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:18,432 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 8
+2024-05-26 18:08:18,433 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:18,433 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-05-26 18:08:18,433 INFO    SenderThread:22725 [job_builder.py:build():432] Attempting to build job artifact
+2024-05-26 18:08:18,436 INFO    SenderThread:22725 [job_builder.py:_get_source_type():565] is repo sourced job
+2024-05-26 18:08:18,443 INFO    SenderThread:22725 [job_builder.py:build():541] adding wandb-job metadata file
+2024-05-26 18:08:18,447 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 9
+2024-05-26 18:08:18,448 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:18,448 DEBUG   SenderThread:22725 [sender.py:send():378] send: artifact
+2024-05-26 18:08:18,448 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 9
+2024-05-26 18:08:18,598 INFO    Thread-12 :22725 [dir_watcher.py:_on_file_modified():288] file/dir modified: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:08:18,884 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 18:08:19,257 INFO    wandb-upload_5:22725 [upload_job.py:push():85] Skipped uploading /Users/teapula/Library/Application Support/wandb/artifacts/staging/tmppss8d_ut
+2024-05-26 18:08:19,505 INFO    wandb-upload_1:22725 [upload_job.py:push():88] Uploaded file /var/folders/r0/6b1372_d6n77fc5shbw_v5tc0000gn/T/tmpcjdi06pj/wandb-job.json
+2024-05-26 18:08:20,659 INFO    SenderThread:22725 [sender.py:send_artifact():1467] sent artifact job-https___github.com_pulatea_deep_learning_02_rnn_transformers.git_train.py - {'id': 'QXJ0aWZhY3Q6ODUwNDQ4OTY2', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE3OTI0NzczOA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODUwNDA3Mjcy', 'versionIndex': 0}}}
+2024-05-26 18:08:20,660 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:20,660 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-05-26 18:08:20,660 INFO    SenderThread:22725 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-05-26 18:08:21,604 INFO    SenderThread:22725 [dir_watcher.py:finish():388] scan: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files
+2024-05-26 18:08:21,605 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/requirements.txt requirements.txt
+2024-05-26 18:08:21,605 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log output.log
+2024-05-26 18:08:21,609 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/config.yaml config.yaml
+2024-05-26 18:08:21,611 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/wandb-summary.json wandb-summary.json
+2024-05-26 18:08:21,612 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/conda-environment.yaml conda-environment.yaml
+2024-05-26 18:08:21,616 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/wandb-metadata.json wandb-metadata.json
+2024-05-26 18:08:21,617 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/val_3_8414cae5351d0ce719b2.table.json media/table/val_3_8414cae5351d0ce719b2.table.json
+2024-05-26 18:08:21,619 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/train_0_b1ab25828bc406dd7260.table.json media/table/train_0_b1ab25828bc406dd7260.table.json
+2024-05-26 18:08:21,620 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/train_2_4af6111646aa40b0791f.table.json media/table/train_2_4af6111646aa40b0791f.table.json
+2024-05-26 18:08:21,620 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/val_2_ab6fbf4a0caf91a80938.table.json media/table/val_2_ab6fbf4a0caf91a80938.table.json
+2024-05-26 18:08:21,620 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/val_1_c2a9ed7eb8199e3541a4.table.json media/table/val_1_c2a9ed7eb8199e3541a4.table.json
+2024-05-26 18:08:21,620 INFO    SenderThread:22725 [dir_watcher.py:finish():402] scan save: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/media/table/train_1_2212c6953f0d34b0549d.table.json media/table/train_1_2212c6953f0d34b0549d.table.json
+2024-05-26 18:08:21,620 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 10
+2024-05-26 18:08:21,620 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 18:08:21,621 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:21,621 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 10
+2024-05-26 18:08:21,621 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:21,621 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-05-26 18:08:21,621 INFO    SenderThread:22725 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-26 18:08:21,896 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 18:08:21,896 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 18:08:22,041 INFO    wandb-upload_5:22725 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/config.yaml
+2024-05-26 18:08:22,041 INFO    wandb-upload_0:22725 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/requirements.txt
+2024-05-26 18:08:22,041 INFO    wandb-upload_4:22725 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/wandb-summary.json
+2024-05-26 18:08:22,041 INFO    wandb-upload_2:22725 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/output.log
+2024-05-26 18:08:22,077 INFO    wandb-upload_1:22725 [upload_job.py:push():130] Uploaded file ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/files/conda-environment.yaml
+2024-05-26 18:08:22,279 INFO    Thread-11 (_thread_body):22725 [sender.py:transition_state():613] send defer: 11
+2024-05-26 18:08:22,280 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:22,280 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 11
+2024-05-26 18:08:22,280 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:22,280 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-05-26 18:08:22,281 INFO    SenderThread:22725 [file_pusher.py:join():175] waiting for file pusher
+2024-05-26 18:08:22,287 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 12
+2024-05-26 18:08:22,287 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:22,287 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 12
+2024-05-26 18:08:22,287 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:22,287 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-05-26 18:08:22,287 INFO    SenderThread:22725 [file_stream.py:finish():601] file stream finish called
+2024-05-26 18:08:22,805 INFO    SenderThread:22725 [file_stream.py:finish():605] file stream finish is done
+2024-05-26 18:08:22,805 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 13
+2024-05-26 18:08:22,806 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:22,806 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 13
+2024-05-26 18:08:22,806 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:22,806 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-05-26 18:08:22,806 INFO    SenderThread:22725 [sender.py:transition_state():613] send defer: 14
+2024-05-26 18:08:22,807 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: defer
+2024-05-26 18:08:22,807 INFO    HandlerThread:22725 [handler.py:handle_request_defer():184] handle defer: 14
+2024-05-26 18:08:22,807 DEBUG   SenderThread:22725 [sender.py:send():378] send: final
+2024-05-26 18:08:22,807 DEBUG   SenderThread:22725 [sender.py:send():378] send: footer
+2024-05-26 18:08:22,807 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: defer
+2024-05-26 18:08:22,807 INFO    SenderThread:22725 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-05-26 18:08:22,808 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: poll_exit
+2024-05-26 18:08:22,808 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: poll_exit
+2024-05-26 18:08:22,809 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: internal_messages
+2024-05-26 18:08:22,810 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: server_info
+2024-05-26 18:08:22,810 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: get_summary
+2024-05-26 18:08:22,810 DEBUG   SenderThread:22725 [sender.py:send_request():405] send_request: server_info
+2024-05-26 18:08:22,811 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: sampled_history
+2024-05-26 18:08:22,964 DEBUG   HandlerThread:22725 [handler.py:handle_request():158] handle_request: shutdown
+2024-05-26 18:08:22,965 INFO    HandlerThread:22725 [handler.py:finish():882] shutting down handler
+2024-05-26 18:08:23,813 INFO    WriterThread:22725 [datastore.py:close():296] close: ./logs/model_4_chat_gpt/wandb/run-20240526_171241-r0njlte6/run-r0njlte6.wandb
+2024-05-26 18:08:23,966 INFO    SenderThread:22725 [sender.py:finish():1545] shutting down sender
+2024-05-26 18:08:23,967 INFO    SenderThread:22725 [file_pusher.py:finish():169] shutting down file pusher
+2024-05-26 18:08:23,967 INFO    SenderThread:22725 [file_pusher.py:join():175] waiting for file pusher
